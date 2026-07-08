@@ -1,0 +1,345 @@
+[
+    {
+        "id": "class9_maths_i'm_up_and_down,_and_round_and_round_1",
+        "text": "I’m Up and Down, and \nRound and Round\nHumanity has always been fascinated by the shapes of the things \naround them. In some early cave paintings, the sun is depicted as a \ncircle. In the cave paintings of Gudahandi in Odisha, one sees numerous \ngeometric patterns including triangles, squares, circles, and ovals. \nThese shapes were likely inspired by what humans saw in nature. \nCan you recognise the origin of the shapes in Fig. 5.1?\nFig. 5.1\nCircles form when raindrops fall on water. The cross-section of a \nplant stem and the inflorescence of a sunflower are also circular in \nshape. The full moon and sun also look circular. \n\t\n\t\n\t\nMoon \t\nSun (during a total solar eclipse) \nFig 5.2\n5\nI’m Up and Down, and Round and Round\n93\nWhat properties are common to all circles, big and small? You have \nstudied one such property in Grade 7. Humans must have noticed it \nafter observing many circular patterns in nature. Every circle has a",
+        "source": "I'm Up and Down, and Round and Round.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_i'm_up_and_down,_and_round_and_round_2",
+        "text": "studied one such property in Grade 7. Humans must have noticed it \nafter observing many circular patterns in nature. Every circle has a \ncentre. All points on the circle are at equal distance from the centre. We \nturn this observation around and make it the definition of a circle. \nActivity: List some objects from nature that resemble a circle.\nThink and Reflect\nJamuna has a circular piece of paper. She is trying to locate its centre. \n­Amina gives her a suggestion. She follows the instructions and is thrilled \nto find that it works. Can you guess what Amina told her?\n5.1 Definitions\nWhen we talk of mathematical shapes such as circles, triangles and \nsquares, we always assume that the figures are drawn on a piece of \npaper — a two-dimensional plane.\nC\nD\nE\nB\nA\nFig. 5.3: Circle, Centre A, Chord BC\nA circle is the set of all points \non the plane that are equidistant \nfrom a given point on that plane. \nThe set of points that satisfy a \ngiven condition is also called the",
+        "source": "I'm Up and Down, and Round and Round.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_i'm_up_and_down,_and_round_and_round_3",
+        "text": "A circle is the set of all points \non the plane that are equidistant \nfrom a given point on that plane. \nThe set of points that satisfy a \ngiven condition is also called the \nlocus of points that satisfy the \ncondition. Using this term, a circle \ncan also be described as the locus \nof points that are equidistant \nfrom a given point. The given \npoint is the centre of the circle. \nThe distance from the centre \nto any point on the circle is the \nradius of the circle.\nIn Fig 5.3, A is the centre of the circle. All points on the plane at a \ndistance equal to the length of AB from A form a circle with centre A \nand radius equal to the length of AB.\nLet B and C be two points on the circle. The line segment BC is called \na chord of the circle.  The angle subtended by the chord BC at the centre \nis angle BAC. A chord passing through the centre of a circle is called \na diameter.\nGanita Manjari |Grade 9| Part I\n94\n5.2 Symmetries of a Circle",
+        "source": "I'm Up and Down, and Round and Round.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_i'm_up_and_down,_and_round_and_round_4",
+        "text": "is angle BAC. A chord passing through the centre of a circle is called \na diameter.\nGanita Manjari |Grade 9| Part I\n94\n5.2 Symmetries of a Circle\nWhat makes circles so appealing is that they are perfectly symmetrical. \nSay you are looking at a wheel of a vehicle. You see a point of the \nwheel touching the ground. When you look at the wheel again after \nsome time, you again see a point of the wheel touching the ground. Can \nyou tell if the two points are the same point? There is no way you can \ntell; a rotating wheel looks the same at all times! We say the circle has \ncomplete rotational symmetry: rotate it by any angle and it looks exactly \nthe same.\nDraw a circle on the paper and cut along the circle. Fold the circular \npaper so that the boundaries overlap, then open it. You see a crease; it is \na line of reflection symmetry of the circle. Does this line pass through the \ncentre of the circle? It does. It is a diameter of the circle. All diameters \nare lines of reflection symmetry.",
+        "source": "I'm Up and Down, and Round and Round.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_i'm_up_and_down,_and_round_and_round_5",
+        "text": "a line of reflection symmetry of the circle. Does this line pass through the \ncentre of the circle? It does. It is a diameter of the circle. All diameters \nare lines of reflection symmetry.\nThink and Reflect\n1.\t What are the rotational symmetries of a square? How many lines of \nreflection symmetry does it have? What about a regular pentagon?  \nA regular hexagon?\n2.\t What is the length of the longest chord in a circle of radius 5 units? \nIs there a smallest chord?\n3.\t The locus of points at a given distance from a given point is a circle. \nWhat can we say about the locus of points equidistant from two given \npoints?\n(Hint: We know that any point that is equidistant from two given points \nA and B lies on the perpendicular bisector of AB. Does this make the \nperpendicular bisector the locus? For this, we have to show that all the \npoints on the perpendicular bisector are equidistant from A and B.)\n5.3 How Many Circles?",
+        "source": "I'm Up and Down, and Round and Round.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_i'm_up_and_down,_and_round_and_round_6",
+        "text": "perpendicular bisector the locus? For this, we have to show that all the \npoints on the perpendicular bisector are equidistant from A and B.)\n5.3 How Many Circles?\nNow that we have defined a circle and listed some of its properties, let \nus ask this question: Given two points A and B on a plane, how many \ncircles pass through A and B? \nIf a circle passes through A and B, it has a centre, say O. The lengths \nOA and OB are equal. Is there another point with this property? Yes, \nthe midpoint of segment AB. With the midpoint as centre, a circle \npassing through A and B can be drawn. Its radius is half the length of \nAB, and AB is a diameter. \nI’m Up and Down, and Round and Round\n95\nAre there more circles passing through both A and B? Clearly, any \npoint equidistant from A and B can be the centre of a circle passing \nthrough A and B. Do you know of such points? We have seen that the \nperpendicular bisector of the line segment AB is the locus of points",
+        "source": "I'm Up and Down, and Round and Round.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_i'm_up_and_down,_and_round_and_round_7",
+        "text": "through A and B. Do you know of such points? We have seen that the \nperpendicular bisector of the line segment AB is the locus of points \nequidistant from A and B. Every point on the perpendicular bisector \nis equidistant from A and B, and every point that is equidistant from \nA and B is on the perpendicular bisector! So, the centres of all circles \nthrough A and B lie on the perpendicular bisector of AB.\nJ\nK\nD\nL\nC\nB\nA\nFig. 5.4: Circles through two points\nIn Fig. 5.4, we see \ncircles \nthrough \npoints \nA and B, and through \nC \nand \nD, \nand \nthe \nperpendicular bisector of \nCD. Every point on the \nperpendicular \nbisector \nis the centre of a circle \npassing through C and \nD. So we have circles \nwith centres K, J and L \ncontaining points C and D.\nThink and Reflect\n1.\t How many circles pass through two points on a plane? \n2.\t \u0007Are there circles of all possible radii passing through A and B? What is \nthe radius of the smallest circle passing through A and B? What is the",
+        "source": "I'm Up and Down, and Round and Round.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_i'm_up_and_down,_and_round_and_round_8",
+        "text": "2.\t \u0007Are there circles of all possible radii passing through A and B? What is \nthe radius of the smallest circle passing through A and B? What is the \nradius of the largest circle passing through A and B?\n3.\t \u0007As you move away from segment AB along its perpendicular bisector, \ndo the radii of the circles containing A and B increase or decrease?\n4.\t \u0007As you go along the perpendicular bisector, will the circle drawn from \nthat point through A and B appear more curved or less curved?\n5.\t \u0007You are given two points A and B on a plane. How many squares \ncan you draw on the same plane with A and B on the boundary? \nHow many squares can you draw on the plane with A and B as the \ncorners of the square? \nGanita Manjari |Grade 9| Part I\n96\nIt is natural to ask: How many circles can you draw through three \ndistinct points A, B and C on a plane? Is there always at least one such \ncircle? Not necessarily! What if A, B and C lie on a straight line, i.e., are",
+        "source": "I'm Up and Down, and Round and Round.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_i'm_up_and_down,_and_round_and_round_9",
+        "text": "distinct points A, B and C on a plane? Is there always at least one such \ncircle? Not necessarily! What if A, B and C lie on a straight line, i.e., are \ncollinear? Can you explain why, in this case, there is no circle through \nA, B and C?\nLet us assume that A, B and C are not collinear. Is there always a \ncircle passing through A, B and C?  Can there be more than one circle \nthrough A, B and C?\nTheorem 1: There is a unique circle passing through three \nnon-collinear points.\nWhy is this true? If there is a circle that passes through non-collinear \nA, B and C, the circle must have a centre. Let’s call that centre O (we will \ndiscover O soon). \nSince OA = OB, we know that O lies on the perpendicular bisector of AB. \nSince OA = OC, we know that O lies on the perpendicular bisector of \nAC as well. \nBut A, B and C are not collinear. So, the perpendicular bisectors of \nAB and AC will intersect at a unique point, since two intersecting lines",
+        "source": "I'm Up and Down, and Round and Round.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_i'm_up_and_down,_and_round_and_round_10",
+        "text": "AC as well. \nBut A, B and C are not collinear. So, the perpendicular bisectors of \nAB and AC will intersect at a unique point, since two intersecting lines \nmeet at exactly one point on the plane. That point must be O. \nUsing O as the centre we can draw a circle with radius equal to the \nlength of OA. That will pass through A, B and C. This explains why the \nstatement is true. \nNow three non-collinear points also determine a triangle. What we \nhave described above is the construction of a circle that passes through \nthe vertices of the triangle.\nPerpendicular bisector of BC\nA\nB\nC\nO\nPerpendicular bisector of AC\nPerpendicular bisector of AB\nFig. 5.5: The circumcircle of triangle ABC\nI’m Up and Down, and Round and Round\n97\nThe centre O of the circle that passes through the vertices A, B and \nC of ΔABC is called the circumcentre of ΔABC (Fig. 5.5). The circle \nis called the circumcircle and is said to circumscribe the triangle.",
+        "source": "I'm Up and Down, and Round and Round.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_i'm_up_and_down,_and_round_and_round_11",
+        "text": "C of ΔABC is called the circumcentre of ΔABC (Fig. 5.5). The circle \nis called the circumcircle and is said to circumscribe the triangle. \nConversely, the triangle is said to be inscribed in the circle. Since, the \nintersection of the perpendicular bisectors of AB and BC is a single \npoint, there is just one such circle for a given triangle. Further, for an \nacute-angled triangle, the circumcentre lies inside the triangle (see \nFig. 5.5). For an obtuse-angled triangle, the circumcentre lies outside \nthe triangle (Fig. 5.6). And for a right-angled triangle, the circumcentre \nlies at the midpoint of the hypotenuse (Fig. 5.7).\nPerpendicular bisector of BC\nA\nB\nC\nO\nPerpendicular bisector of AC\nPerpendicular bisector of AB\nFig. 5.6: Obtuse-angled triangle: Circumcentre O is outside the triangle\nPerpendicular bisector of BC\nA\nB\nC\nO\nPerpendicular bisector of AC\nPerpendicular bisector of AB\nFig. 5.7: Right-angled triangle: Circumcentre O is at the  \nmidpoint of the hypotenuse",
+        "source": "I'm Up and Down, and Round and Round.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_i'm_up_and_down,_and_round_and_round_12",
+        "text": "Perpendicular bisector of BC\nA\nB\nC\nO\nPerpendicular bisector of AC\nPerpendicular bisector of AB\nFig. 5.7: Right-angled triangle: Circumcentre O is at the  \nmidpoint of the hypotenuse\nGanita Manjari |Grade 9| Part I\n98\nExercise Set 5.1\n\t 1.\t Draw ΔABC with AB = 5 cm, ∠A = 70° and ∠B = 60°. Draw the \ncircumcircle of ΔABC. Is the centre inside or outside the triangle? \n\t 2.\t Draw ΔABC with AB = 5 cm, ∠A = 100°, AC = 4 cm. Draw the \ncircumcircle of ΔABC. Is the centre inside or outside the triangle?\n\t 3.\t Draw ΔABC, with AB = 6 cm, BC = 7 cm and CA = 7 cm. Draw \nthe circumcircle of ΔABC. Let the circumcentre be O. Measure OA, \nOB, OC. \n\t 4.\t What is the least possible radius of a circle through two points A \nand B?\nThink, Draw and Infer \n\t 1.\t A, B and C are three collinear points. Can you find a point P such \nthat PA = PB = PC ? What can you say about the perpendicular \nbisectors of AB and BC? Draw and check. Can you show that for",
+        "source": "I'm Up and Down, and Round and Round.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_i'm_up_and_down,_and_round_and_round_13",
+        "text": "1.\t A, B and C are three collinear points. Can you find a point P such \nthat PA = PB = PC ? What can you say about the perpendicular \nbisectors of AB and BC? Draw and check. Can you show that for \nthree collinear points A, B and C, the perpendicular bisector of \nAB and BC are parallel? Is it possible for a circle to pass through \ncollinear points? Can you draw a line that cuts a given circle in \nthree distinct points?\n\t 2.\t The circumcircle of a given ΔABC is drawn. Can there be other \ntriangles congruent to ΔABC that share the same circumcircle?\n5.4 Chords and the Angles They Subtend\nYou may want to know when 4 points lie on the same circle. That will \nhave to wait till the end of this chapter. We need to do some more work \nto get there.\nFig. 5.8: Chords and radii\nTie a thread at two points on \na wheel; pull it tight (Fig. 5.8). \nThe thread can be thought of as \na chord of the wheel (a circle). \nImagine joining the end points of \nthe thread to the centre. The thread",
+        "source": "I'm Up and Down, and Round and Round.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_i'm_up_and_down,_and_round_and_round_14",
+        "text": "a wheel; pull it tight (Fig. 5.8). \nThe thread can be thought of as \na chord of the wheel (a circle). \nImagine joining the end points of \nthe thread to the centre. The thread \nsubtends an angle at the centre. Now, \nrotate the wheel. The thread rotates \naround the centre along with the \nwheel.\nI’m Up and Down, and Round and Round\n99\nIn the new position, the thread is another chord on the circle. \nWhat is common to the first and second chords? They have the \nsame length, equal to the length of the thread. What about the angle \nsubtended by the second chord at the centre? It must surely be the \nsame as the angle subtended by the first chord at the centre. We now \nexplain why this is true.\nTheorem 2: Equal chords of a circle subtend equal angles at the centre \nof the circle.\nWhat does the theorem say? It talks of two chords of the circle with \nequal length. In geometry, it always helps to draw a figure! (See Fig. 5.9). \nAB and DE are chords of the same length. We need to explain why ∠ACB",
+        "source": "I'm Up and Down, and Round and Round.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_i'm_up_and_down,_and_round_and_round_15",
+        "text": "equal length. In geometry, it always helps to draw a figure! (See Fig. 5.9). \nAB and DE are chords of the same length. We need to explain why ∠ACB \nis equal to ∠DCE. What are we given? AB = DE. \nTo explain why two angles in two different triangles are equal, we \nuse congruence of triangles. If the angles which we want to show equal \nare corresponding angles, then our task would be done!\nB\nC\nA\nD\nE\nFig. 5.9\nGiven: AB = DE.\nTo show: ∠ACB = ∠DCE. \nWhy is this true? First, we see that \nCA = CB = r, the radius of the circle. \nAlso, CD = CE = r. So, CA = CD and CB = CE.\nBut AB = DE is given! By the SSS congruence, \n∆CAB is congruent to ∆CDE. So, ∠ACB is \nequal to ∠DCE, i.e., the angles subtended \nat the centre are equal. \nNow suppose we have two chords that subtend equal angles at the \ncentre. Are the chords equal? What does our intuition tell us? Let the \nchords be AB and DE. Let us use our imagination. Assume that B, A, E, \nand D are located clockwise on the circle as shown in Fig 5.10.\nB",
+        "source": "I'm Up and Down, and Round and Round.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_i'm_up_and_down,_and_round_and_round_16",
+        "text": "chords be AB and DE. Let us use our imagination. Assume that B, A, E, \nand D are located clockwise on the circle as shown in Fig 5.10.\nB\nC\nb = 54°\na = 54°\nA\nD\nE\nFig. 5.10\nImagine you are standing at the centre C \nof a circle. Stretch your arms so that they are \nat a certain angle. Let your arms intersect the \ncircle at A, B. The distance between your arm \nends must be the length of chord AB. Now let \nthe floor rotate magically. You start rotating \n(say clockwise) about C. Don’t change the \nangle your arms make! At some point your \nleft arm meets point E. \nGanita Manjari |Grade 9| Part I\n100\nWhere will your right hand be? It should be at D, should it not? \nThat is because we assumed that angles ACB and DCF are equal, and \nyou have not moved your hands. The distance between the ends of \nyour arms must be the length of DE as well. Let us now explain why \nthis is true.\nTheorem 3: Chords of a circle that subtend equal angles at the centre \nare equal.",
+        "source": "I'm Up and Down, and Round and Round.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_i'm_up_and_down,_and_round_and_round_17",
+        "text": "your arms must be the length of DE as well. Let us now explain why \nthis is true.\nTheorem 3: Chords of a circle that subtend equal angles at the centre \nare equal.\nLet us draw the figure, as in Fig. 5.11.\nB\nC\nA\nD\nE\nFig. 5.11\nGiven: ∠ACB = ∠DCE. \nTo show: AB = ED. \nWhy is this true? We see that \nAC = BC = the radius of the circle. \nLikewise, EC = DC = the radius. \nSo, AC = DC and BC = EC. \nSince, ∠ACB = ∠DCE, by the SAS \ncongruence, ∆ACB ≅ ∆DCE. Hence, \nAB = ED. \nExercise Set 5.2\n\t 1.\t Show that the triangle formed by a chord and the centre of the \ncircle is isosceles.\n\t 2.\t Show that if two such isosceles triangles (occurring in the \nprevious question) have equal base length, they are congruent to \neach other.\n5.5 Midpoints and Perpendicular Bisectors of Chords\nWe will explore more properties of chords. Do we get something \nspecial when we draw a line segment from the centre of a circle to the \nmidpoint of a chord? What if we draw the perpendicular bisector of a",
+        "source": "I'm Up and Down, and Round and Round.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_i'm_up_and_down,_and_round_and_round_18",
+        "text": "special when we draw a line segment from the centre of a circle to the \nmidpoint of a chord? What if we draw the perpendicular bisector of a \nchord? Does it pass through a special point?\nI’m Up and Down, and Round and Round\n101\nTheorem 4: The line joining the centre of a circle and the midpoint of \na chord of the circle is perpendicular to the chord.\nC\nB\nA\nM\nFig. 5.12\nLet us see why this is true. Draw a \ncircle with centre C (Fig. 5.12). Draw \nany chord AB. Let M be the midpoint \nof AB. We must show that CM is \nperpendicular to AB.\nExplanation:  CAB is an isosceles \ntriangle. AB is the base and CA = CB. \nSo, ∠A = ∠B. \nM is the midpoint of AB. So, \nAM = BM. \nBy the SAS congruence, ∆ CMA is \ncongruent to ∆ CMB. So, ∠CMB = ∠CMA.\nBut ∠CMB + ∠CMA = 180° (angles on \na line).\nSo, both angles are 90°. That is, CM \nis perpendicular to AB. \nExercise Set 5.3\n\t 1.\t Can you explain why the converse to Theorem 4 is true, i.e., why",
+        "source": "I'm Up and Down, and Round and Round.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_i'm_up_and_down,_and_round_and_round_19",
+        "text": "But ∠CMB + ∠CMA = 180° (angles on \na line).\nSo, both angles are 90°. That is, CM \nis perpendicular to AB. \nExercise Set 5.3\n\t 1.\t Can you explain why the converse to Theorem 4 is true, i.e., why \ndoes the perpendicular from the centre of a circle to a chord of the \ncircle bisect the chord?\n\t\n\t (Hint: Use Fig. 5.12. You are told that ∠CMA = ∠CMB = 90°. You \nneed to show that AM = BM.)\n\t 2.\t An isosceles triangle ABC is inscribed in a circle, with AB = AC. \nShow that the altitude from A to BC passes through the centre of \nthe circle.\n\t 3.\t Two parallel chords of lengths 6 cm and 8 cm are on opposite sides \nof the centre of a circle. If the radius of the circle is 5 cm, find the \ndistance between the midpoints of the chords. \nGanita Manjari |Grade 9| Part I\n102\nFrom Question 1 above, we have the following result. \nTheorem 5: The perpendicular from the centre of a circle to a chord \nof the circle bisects the chord.\n5.6 Distance of Chords from the Centre",
+        "source": "I'm Up and Down, and Round and Round.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_i'm_up_and_down,_and_round_and_round_20",
+        "text": "102\nFrom Question 1 above, we have the following result. \nTheorem 5: The perpendicular from the centre of a circle to a chord \nof the circle bisects the chord.\n5.6 Distance of Chords from the Centre\nActivity: Take a paper circle. Fold the circle from the boundary, \ninwards. Open the fold. The crease is now a chord (see Fig. 5.13 B). Now \nfold the paper again, so that the end points of the chord meet. Open the \nfold (see Fig. 5.13 C). \nFig. 5.13 A\nFig. 5.13 B\nFig. 5.13 C\nMeasure the lengths of the parts into which the chord is divided. \nThe chord gets bisected where the folds intersect. Measure the \nangle between the creases. The crease of the second fold is along the \nperpendicular from the centre to the chord. Measure the distance from \nthe centre to the midpoint of the chord. It is the distance from the centre \nto the chord.\nNow draw another chord of the same length. How will you do this? \nWe will let you figure this out yourself. Join the centre to the midpoint",
+        "source": "I'm Up and Down, and Round and Round.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_i'm_up_and_down,_and_round_and_round_21",
+        "text": "to the chord.\nNow draw another chord of the same length. How will you do this? \nWe will let you figure this out yourself. Join the centre to the midpoint \nof the new chord and measure its length. Is it the same as distance from \nthe centre to the first chord? \nNow take a tracing paper and draw a circle on it with the same \nradius. Place the circle on the tracing paper on top of the circle paper \nso that the circles overlap. Trace the chord on the circle paper, and the \nperpendicular to it from its centre, onto the tracing paper circle. Now \nrotate the tracing paper. You will see the chord through the tracing \npaper — it looks like a different chord of the same length on the circle \npaper. \nThe circle is a symmetric figure. So, rotating the circle around its \ncentre does not change the circle. As we rotate the circle, our chosen \nchord will also rotate, to give a new chord of the same length. Along \nwith it, the perpendicular from the centre to the chord also moves!",
+        "source": "I'm Up and Down, and Round and Round.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_i'm_up_and_down,_and_round_and_round_22",
+        "text": "chord will also rotate, to give a new chord of the same length. Along \nwith it, the perpendicular from the centre to the chord also moves! \nEqual chords appear to be equidistant from the centre.\nI’m Up and Down, and Round and Round\n103\nIs this a totally convincing explanation? No, we have only given \nexamples where our guess holds true. A statement may be true on a \nlarge number of examples, but it does not mean the statement is true in \ngeneral. So let us explain why the statement is true.\nTheorem 6: Chords of a circle having the same length are all at the \nsame distance from the centre of the circle.\nDraw the figure (Fig. 5.14).\nE\nD\nC\nG\nB\nH\nF\nA\nFig. 5.14\nGiven: \nCircle \nwith \ncentre \nC; \nAB = FG; E, H are midpoints of AB, \nFG respectively.\nTo show: CE = CH.\nWhy is this true? From Theorem 5, \nCE and CH are the perpendiculars \nfrom C to the chords AB and FG \nrespectively.   \nSo, CE and CH are the distances from the centre C to the chords AB \nand FG respectively.",
+        "source": "I'm Up and Down, and Round and Round.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_i'm_up_and_down,_and_round_and_round_23",
+        "text": "CE and CH are the perpendiculars \nfrom C to the chords AB and FG \nrespectively.   \nSo, CE and CH are the distances from the centre C to the chords AB \nand FG respectively.  \nWe shall explain this result in two different ways. \n(1) Triangles CAB and CFG are congruent.\nCA = CF (both are equal to the radius of the circle). Likewise, CB = CG. \nWe are given that AB = FG. So, by the SSS congruence,  ∆CAB ≅ ∆CFG.\nHence the altitudes of the congruent triangles are congruent. \nCE = CH. Therefore, the chords AB and FG are equidistant from the \ncentre C. \n(2) Consider triangles CEA and CHF. \nFrom Theorem 5, the perpendicular from the centre bisects the \nchord.\nHence, E and H are the midpoints of the chords AB and FG \nrespectively.\nGanita Manjari |Grade 9| Part I\n104\nAE = FH (since AB = FG, and E and H are midpoints of AB and FG).\n∠CEA = ∠CHF = 90°.\nCF = CA, as they are radii of the circle.\nBy the RHS congruence, ∆CEA ≅ ∆CHF.\nSo, CE = CH. Thus the chords of equal length are equidistant from",
+        "source": "I'm Up and Down, and Round and Round.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_i'm_up_and_down,_and_round_and_round_24",
+        "text": "∠CEA = ∠CHF = 90°.\nCF = CA, as they are radii of the circle.\nBy the RHS congruence, ∆CEA ≅ ∆CHF.\nSo, CE = CH. Thus the chords of equal length are equidistant from \nthe centre. \nExercise Set 5.4\n\t 1.\t Use the Baudhāyana–Pythagoras theorem to show why Theorem \n6 must be true.\n\t 2.\t Consider Fig. 5.15. If CE is perpendicular \nto AB, CH is perpendicular to GH, and CE \n= CH, show that AB = GF.\n\t 3.\t Solve the previous question using the \nBaudhāyana–Pythagoras theorem.\nQuestion \n2 \nin \nthe \nexercise \nabove \nestablishes the following result.\nTheorem 7: Chords of a circle that are \nequidistant from the centre have equal length.\n5.6.1 \u0007Which of the two unequal chords is farther from the \ncentre?\nYou have two chords on a circle. One is longer than the other. Which \nchord is closer to the centre? Can you guess?\nActivity:  Draw a circle. Draw chords of various lengths. Drop a \nperpendicular to each chord from the centre. Record the length of the \nchord and its distance from the centre in a table.",
+        "source": "I'm Up and Down, and Round and Round.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_i'm_up_and_down,_and_round_and_round_25",
+        "text": "Activity:  Draw a circle. Draw chords of various lengths. Drop a \nperpendicular to each chord from the centre. Record the length of the \nchord and its distance from the centre in a table.\nTable 1\nLength of Chord\n \nDistance from Centre\nFig. 5.15\nE\nC\nG\nB\nH\nF\nA\nI’m Up and Down, and Round and Round\n105\nWhat do you observe? The longer the chord, the closer it is to the \ncentre. Let us try to understand why this is true.\nTheorem 8: Let AB and DE be two chords of a circle with centre C. \nSuppose AB > DE. Then the distance from C to AB is less than the distance \nfrom C to DE.\nAs always, we draw the figure. Remember: by ‘distance from C to \nAB’ we mean the perpendicular distance. So, we drop perpendiculars \nCF and CG from C to AB and DE, respectively.  \nE\nD\nG\nB\nF\nA\nC\nFig. 5.16\nGiven: AB > DE.  \nTo show that: CF < CG. \nWhy is this true? In Fig. 5.16, both \nAC and CD are radii. So, AC = CD. By \nthe Baudha¯yana–Pythagoras Theorem, \nCD2 = CG2 + GD2 and AC2 = CF2 + AF2.",
+        "source": "I'm Up and Down, and Round and Round.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_i'm_up_and_down,_and_round_and_round_26",
+        "text": "Given: AB > DE.  \nTo show that: CF < CG. \nWhy is this true? In Fig. 5.16, both \nAC and CD are radii. So, AC = CD. By \nthe Baudha¯yana–Pythagoras Theorem, \nCD2 = CG2 + GD2 and AC2 = CF2 + AF2.\nSo, CF2 + AF2  = CG2  + GD2.         \nNow AB is greater than DE. So AF is \ngreater than GD (because F and G are \nthe midpoints of AB and DE).\nSince AF2 > GD2 we have CF2 < CG2. \nSo, CF < CG.     \nComment: The chord nearest to the centre is the chord containing \nthe centre. Its distance to C is zero! So the diameter is the greatest \nchord. \nIf one pushes the chord away from the centre, at some stage the \nchord becomes a single point, its length is zero, and the distance of C \nfrom this chord is the radius.\nExercise Set 5.5\n\t 1.\t Find the length of the chord of a circle where the radius is 7 cm \nand perpendicular distance is 6 cm.\n\t 2.\t Explain why the following statement is true: If the perpendicular \ndistance of a chord from the centre is d and the radius is r, then the \nchord length is 2\n2\n2\nr\nd",
+        "source": "I'm Up and Down, and Round and Round.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_i'm_up_and_down,_and_round_and_round_27",
+        "text": "2.\t Explain why the following statement is true: If the perpendicular \ndistance of a chord from the centre is d and the radius is r, then the \nchord length is 2\n2\n2\nr\nd\n−\n.\nGanita Manjari |Grade 9| Part I\n106\n\t*3.\t In a circle, if the distance of chord AB from the centre is twice \nthe distance of another chord CD from the centre, then can we \nconclude that CD = 2 AB? Give reasons for your answer.\n5.7 Angles Subtended by an Arc\nAn arc of a circle is a connected portion of the circle. It is defined by \ntwo points on the circle, called the end points of the arc, and the curve \nconnecting them along the circle’s edge. \nB\nO\nY\nX\nA\nFig. 5.17: Major arc AYB and minor \narc AXB                                             \nLook at Fig. 5.17. A and B are two \npoints on the circle. There are two \nways of going from A to B. One goes \nvia point X and one goes via point Y. \nThe bigger of the two is called the \nmajor arc, and the smaller of the two \nis called the minor arc.\nWe \ndefine \nthe \nangle",
+        "source": "I'm Up and Down, and Round and Round.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_i'm_up_and_down,_and_round_and_round_28",
+        "text": "via point X and one goes via point Y. \nThe bigger of the two is called the \nmajor arc, and the smaller of the two \nis called the minor arc.\nWe \ndefine \nthe \nangle \nsubtended by the arc AB at \nthe centre to be the measure \nof the angle AOB, as we sweep \nalong the arc — so we move \nfrom OA to OB along the arc and \nmeasure \nthe \nangle \nswept. \nThe minor arc subtends the \n∠AOB — here you move from \nOA to OB via X. The major arc \nsubtends the angle we get as \nwe move from OA to OB via Y \n(see Fig. 5.18).\nX\nB\nA\nO\nY\nFig. 5.18\nI’m Up and Down, and Round and Round\n107\nExercise: A circle with centre \nO is drawn, and A, B, C, D are \npoints on the circle (see  Fig. 5.19). \nMeasure the angles subtended \nby arc AKB and arc CLD at the \ncentre O. If the angle at the centre \nis less than 180°, it is a minor arc. \nIf the angle at the centre is greater \nthan 180°, it is a major arc. State \nwhether arcs AKB and CLD are \nminor arcs or major arcs.\nL\nO\nC\nB\nK\nA\nD\nFig. 5.19",
+        "source": "I'm Up and Down, and Round and Round.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_i'm_up_and_down,_and_round_and_round_29",
+        "text": "is less than 180°, it is a minor arc. \nIf the angle at the centre is greater \nthan 180°, it is a major arc. State \nwhether arcs AKB and CLD are \nminor arcs or major arcs.\nL\nO\nC\nB\nK\nA\nD\nFig. 5.19\n5.7.1 \u0007Angle subtended by an arc at a point on the circle \noutside the arc\nBy ʻangle subtended by arc AXB at a point on the circle outside the arcʼ \nwe mean the angle ACB where C is any point on the circle but not \non arc AXB. Remarkably, the measure of this angle does not depend \nupon which specific point C we pick, so long as it is on the circle and \noutside the arc!\nActivity: Draw a circle and a chord AB. \nFix an arc AKB formed by AB and a point \nK between A, B on the circle. Measure the \nangle subtended at the centre by arc AKB. \nTake three points P, Q, R on the circle outside \narc AKB. Measure the angles subtended \nby arc AKB at points P, Q, R. What do you \nnotice?\nRepeat this activity for a different arc \nAKB. Based on this activity, we can make a",
+        "source": "I'm Up and Down, and Round and Round.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_i'm_up_and_down,_and_round_and_round_30",
+        "text": "arc AKB. Measure the angles subtended \nby arc AKB at points P, Q, R. What do you \nnotice?\nRepeat this activity for a different arc \nAKB. Based on this activity, we can make a \nstatement about the angles subtended by an \narc of a circle at the centre and at a point \nof the circle outside the arc. We shall show \nthat the following is true.\nFig. 5.20\nA\nP\nQ\nR\nB\nK\nO\nGanita Manjari |Grade 9| Part I\n108\nTheorem 9: The angle subtended by an arc at the centre of the circle \nis double the angle subtended by the arc at any point on the circle outside \nthe arc.\nB\nA\nE\nC\nF\nD\nFig. 5.21: Angle subtended  \nby arc AFB\nGiven: AFB is an arc. ∠ACB is the angle \nsubtended by arc AFB at centre C. D is a \npoint on the circle outside arc AFB (see \nFig. 5.21). \nWe will assume for now that D is \nsuch that DC when extended cuts the \ncircle at some point E on arc AFB, as \nshown. \nWe will consider the other case \nlater.\nTo show: ∠BCA = 2 ∠BDA.\nWhy is this true? Join D to C and extend DC to cut the",
+        "source": "I'm Up and Down, and Round and Round.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_i'm_up_and_down,_and_round_and_round_31",
+        "text": "circle at some point E on arc AFB, as \nshown. \nWe will consider the other case \nlater.\nTo show: ∠BCA = 2 ∠BDA.\nWhy is this true? Join D to C and extend DC to cut the \ncircle at a point E on arc AFB. Now ∆DCB is isosceles with CB = CD. \nSo, ∠CBD = ∠CDB.\n∠BCE is the exterior angle of ∆BCD. By the exterior angle theorem,\n∠BCE = ∠CBD + ∠CDB = 2 ∠BDC.\nSimilarly, ∆ADC is an isosceles triangle with CA = CD. \nSo, \t\n∠CAD = ∠CDA\n∠ACE is the exterior angle of ∆ADC. By the exterior angle theorem,\n∠ACE = ∠CAD + ∠CDA = 2 ∠CDA.\nNow ∠BCA = ∠BCE + ∠ECA, and ∠BDA = ∠BDE + ∠EDA.\nHence\t\n∠BCA = 2 (∠BDC + ∠CDA) = 2 ∠BDA.\nSo,\t\n∠BCA = 2 ∠BDA.\nThe explanation we have given does not work if the situation is \nas shown in Fig. 5.22, where the extension of DC meets the circle at \na point E outside the arc AFB. We must rework the explanation for \nthis case.\nI’m Up and Down, and Round and Round\n109\nB\nA\nE\nC\nF\nD\nFig 5.22: Angle subtended  \nby arc AFB\nGiven: AFB is an arc. ∠ACB is the angle",
+        "source": "I'm Up and Down, and Round and Round.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_i'm_up_and_down,_and_round_and_round_32",
+        "text": "this case.\nI’m Up and Down, and Round and Round\n109\nB\nA\nE\nC\nF\nD\nFig 5.22: Angle subtended  \nby arc AFB\nGiven: AFB is an arc. ∠ACB is the angle \nsubtended by arc AFB at centre C. \nD is a point on the circle outside arc \nAFB such that when we extend DC it \ncuts the circle at some point E outside \nthe arc AFB, as shown (Fig. 5.22). \nWe shall again make use of the \nproperties of isosceles triangles.\n∠ACE = ∠ADC + ∠CAD = 2 ∠ADC, since CA = CD (and so ∠ADC = ∠CAD).\nSimilarly, ∠BCE = ∠BDC + ∠CBD = 2 ∠BDC.\nAlso, ∠ACB = ∠ACE – ∠BCE, and ∠ADB = ∠ADC – ∠BDC.\nHence ∠ACB = 2 ∠ADB. \nX\nB\nD\nF\nC\nA\nE\nFig. 5.23: Angles subtended  \nby an arc are equal\nSomething very interesting comes \nout of this. This is what the activity \nbefore Theorem 9 suggested. Take \nan arc AB. Decide how you want to \ngo from A to B along the arc. Take \nany point D on the circle, outside \narc AB. \nThen, no matter where D is, so \nlong as it is outside the arc and on \nthe circle, ∠ADB is the same!",
+        "source": "I'm Up and Down, and Round and Round.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_i'm_up_and_down,_and_round_and_round_33",
+        "text": "go from A to B along the arc. Take \nany point D on the circle, outside \narc AB. \nThen, no matter where D is, so \nlong as it is outside the arc and on \nthe circle, ∠ADB is the same!\nLet us understand this better using Fig. 5.23. Consider the arc of the \ncircle going from A to B via X. The points on the circle outside this arc \nare points you cross as you go from A to B via E. The angle subtended \nby AXB at the centre is the angle swept by CA as we move from CA to \nCB via X. Points E, F and D are all not on AXB. The theorem tells us that \n∠AEB = ∠ADB = ∠AFB = 1\n2 ∠ACB. \nGanita Manjari |Grade 9| Part I\n110\nCorollary: \u0007The angle subtended by a diameter at any point on the circle \nis 90°. \nCorollary: A corollary is a fact that follows immediately from an \nalready proved result.\nB\nD\nA\nC\nFig. 5.24\nWhy is this true? Let AB be a diameter \n(Fig. 5.24). We must show that ∠ADB \nis 90°. The arc from A to B we take is \nthe arc not containing D. What is the \nangle subtended by that arc at C? We",
+        "source": "I'm Up and Down, and Round and Round.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_i'm_up_and_down,_and_round_and_round_34",
+        "text": "Why is this true? Let AB be a diameter \n(Fig. 5.24). We must show that ∠ADB \nis 90°. The arc from A to B we take is \nthe arc not containing D. What is the \nangle subtended by that arc at C? We \nhave to move from A along that arc till \nwe reach B. So, the angle subtended \nis ∠ACB, a straight angle, 180°. Hence, \n∠ADB = 1\n2 ∠ACB = 90°.\nA\nC\nH\nE\nG\nD\nF\nI\nB\nFig. 5.25: Points and the chord\nThis fact that the angles in the \nsame arc segment are all equal is a \nbeautiful fact that distinguishes the \ncircle from all other shapes. \nIn Fig. 5.25, the angles that arc AB \nsubtends at the points F, G outside \nthe circle are different. For the points \ninside the circle, ∠AIB, ∠ACB and \n∠AHB are all different. But for all \npoints P on arc AB, the subtended \nangles are the same. Thus, for points \nD, E, ∠ADB = ∠AEB.\nExercise Set 5.6\n\t 1.\t In a circle with centre O, the central angle AOB is 60°. If the radius \nof the circle is 12 cm, what is the length of the chord AB?",
+        "source": "I'm Up and Down, and Round and Round.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_i'm_up_and_down,_and_round_and_round_35",
+        "text": "D, E, ∠ADB = ∠AEB.\nExercise Set 5.6\n\t 1.\t In a circle with centre O, the central angle AOB is 60°. If the radius \nof the circle is 12 cm, what is the length of the chord AB?\nI’m Up and Down, and Round and Round\n111\n\t 2.\t Let A and B be two points on a circle with centre O. \n\t\n(i)\t\nAre there points X, Y on the circle, on the same side of AB, \nsuch that ∠AXB is different from ∠AYB? \n\t\n(ii)\t\nIs it true that if ∠AXB = ∠AYB, then X \nand Y lie on the same side of the circle?\n\t\n(iii)\t\nIf ∠AXB = ∠AYB, and X and Y do not lie \non the circle, does the circle through \nA, B and X also pass through Y?\n\t 3.\t Find x in Fig. 5.26.\n5.8 Concyclicity of Points\nNow we address the question about when 4 points lie on the same \ncircle. And we will let you explore the question for 5 points, 6 points \nand so on! We call points that are on the same circle concyclic. \nTheorem 10: If a line segment AB joining two points A, B subtends \nequal angles at two other points C, D that lie on the same side of AB, then",
+        "source": "I'm Up and Down, and Round and Round.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_i'm_up_and_down,_and_round_and_round_36",
+        "text": "Theorem 10: If a line segment AB joining two points A, B subtends \nequal angles at two other points C, D that lie on the same side of AB, then \nthe four points lie on a circle.\nAs always we draw the picture first. \nGiven: Consider segment AB. Points C and D lie on the same side of \nAB; points C and D are not on the line AB; and ∠ACB = ∠ADB.\nTo show: A, B, C, D lie on the same circle.\nWhy is this true? The points A, B, C are noncollinear points. So, \nusing Theorem 1, there is a circle passing through A, B, C.\nLet us show that D also lies on that circle. For this, let us draw the \ncircle through A, B and C. \nSuppose D is not on the circle; then it is either inside or outside the \ncircle. Join AD.\nA\nC\nE\nB\nD\nA\nC\nD\nB\nE\nFig. 5.27 A\nFig. 5.27 B\n100°\nx\nA\nB\nC\nD\nFig. 5.26\nGanita Manjari |Grade 9| Part I\n112\nIf D is outside the circle, then AD intersects the circle at E; see \nFig. 5.27 A. If D is inside the circle, extend AD to meet the circle at E;",
+        "source": "I'm Up and Down, and Round and Round.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_i'm_up_and_down,_and_round_and_round_37",
+        "text": "A\nB\nC\nD\nFig. 5.26\nGanita Manjari |Grade 9| Part I\n112\nIf D is outside the circle, then AD intersects the circle at E; see \nFig. 5.27 A. If D is inside the circle, extend AD to meet the circle at E; \nsee Fig. 5.27 B. Now C, E are on the same segment of the arc formed by \nchord AB. So, ∠ACB = ∠AEB. \nIf D were outside the circle, then ∠AEB is an exterior angle of \nthe ∆BED, so ∠AEB > ∠ADB. Also, ∠AEB = ∠ACB (angles in the same \nsegment of a circle), and ∠ACB = ∠ADB (given). This leads to ∠ACB being \ngreater than itself, which is obviously not possible. \nIf D were inside as in Fig. 5.27 B, then ∠ADB is an exterior angle of \nBED. In the same way that we argued above, we reach an impossible \nconclusion.\nSo, we must eliminate both of these options (D being outside the \ncircle and D being inside the circle). So, D must be on the circle passing \nthrough A, B, C. In other words, A, B, C, D are concyclic. \nWhen the vertices of a quadrilateral (which we also call a 4-gon) are",
+        "source": "I'm Up and Down, and Round and Round.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_i'm_up_and_down,_and_round_and_round_38",
+        "text": "through A, B, C. In other words, A, B, C, D are concyclic. \nWhen the vertices of a quadrilateral (which we also call a 4-gon) are \nconcyclic, the quadrilateral is called a cyclic quadrilateral.  \nWe use this to show another nice property of circles!\nTheorem 11: The sum of two opposite angles of a cyclic quadrilateral \nis 180°. \nB\nA\nO\nC\nD\nFig. 5.28\nGiven: A, B, C, D are the vertices \nof a cyclic 4-gon (Fig. 5.28). This \nmeans that there is a circle \npassing through A, B, C, D. Let its \ncentre be O.\nTo show: ∠BAD + ∠BCD = 180°.\nHow shall we show that this is true? Consider arc BCD; point A is on \nthe circle and it lies outside the arc BCD. So ∠BAD is half the angle that \narc BCD subtends at the centre O. Since we move from OB to OD along \nC, this is the reflex angle BOD (dotted). So, ∠BAD = 1\n2 (reflex angle BOD).\nI’m Up and Down, and Round and Round\n113\nSimilarly, ∠BCD is half the angle subtended by the arc BAD at O.",
+        "source": "I'm Up and Down, and Round and Round.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_i'm_up_and_down,_and_round_and_round_39",
+        "text": "C, this is the reflex angle BOD (dotted). So, ∠BAD = 1\n2 (reflex angle BOD).\nI’m Up and Down, and Round and Round\n113\nSimilarly, ∠BCD is half the angle subtended by the arc BAD at O. \nThis is the angle denoted by the double arc BOD. Since C is on arc BCD, \nwe need to move from OB to OD via A. So, ∠BCD = 1\n2 (∠BOD).\nSo, ∠BAD + ∠BCD = 1\n2 (complete angle at the centre O)\nA complete rotation at O is 360°. \nHence, ∠BAD + ∠BCD = 1\n2 × (360°) = 180°. \nSo, the opposite angles of a cyclic 4-gon add up to 180°.\nThe converse of this theorem also holds.\nExercise: A cyclic quadrilateral has angles measuring ∠A = 80°, \n∠B = 110°, ∠C = 100°, and ∠D = 70°. Can such a quadrilateral be drawn? \nExplain why or why not.\nTheorem 12: If two opposite angles of a quadrilateral add up to \n180°, then the vertices of the quadrilateral lie on a circle, i.e., they are \nconcyclic. \nB\nA\nO\nC\nE\nD\nFig. 5.29\nGiven: ABCD is a 4-gon (Fig. 5.29). \n∠BAD + ∠BCD = 180°.\n∠ABC + ∠CDA =180°.\nTo show that: ABCD is cyclic.",
+        "source": "I'm Up and Down, and Round and Round.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_i'm_up_and_down,_and_round_and_round_40",
+        "text": "concyclic. \nB\nA\nO\nC\nE\nD\nFig. 5.29\nGiven: ABCD is a 4-gon (Fig. 5.29). \n∠BAD + ∠BCD = 180°.\n∠ABC + ∠CDA =180°.\nTo show that: ABCD is cyclic.\nWhy is this true? Suppose ABCD is not \ncyclic. Since A, D, B are not collinear, \nthere is a circle passing through the \nthree points. If that circle does not \npass through C, there are two cases: C \nis outside or C is inside the circle.\nWe deal only with the first case and leave the other to the reader. \nLet E be the point where CD meets the circle (see Fig. 5.29). Then \nABED is a cyclic 4-gon. So from Theorem 11, ∠BAD + ∠BED = 180°. \nWe are also given ∠BAD + ∠DCB = 180°.\nSo ∠BCD = ∠BED. But this is not possible as ∠BED is the exterior \nangle of  BEC and hence greater than ∠BCE, i.e., greater than ∠BCD. \nSo, points A, B, C, D all lie on a circle. \nGanita Manjari |Grade 9| Part I\n114\nThe circle is a beautiful and tantalising shape. After mastering \nthese basic properties, you will get a feel for the symmetries of a circle",
+        "source": "I'm Up and Down, and Round and Round.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_i'm_up_and_down,_and_round_and_round_41",
+        "text": "Ganita Manjari |Grade 9| Part I\n114\nThe circle is a beautiful and tantalising shape. After mastering \nthese basic properties, you will get a feel for the symmetries of a circle \nand the properties of chords, the angles they subtend, the distances of \nchords from the centre, and angles subtended by arcs at the centre. \nNext year you will study many more interesting and beautiful such \nresults about circles. Stay tuned — the best is yet to come!\nEnd-of-Chapter Exercises\n\t\n1.\t In a circle, a chord is 5 cm away from the centre. If the radius of \nthe circle is 13 cm, what is the length of the chord?\n\t\n2.\t An arc of a circle subtends an angle of 70° at the centre. What is \nthe measure of the angle subtended by the arc at a point on the \ncircle?\n\t\n3.\t The diameter of a circle is 26 cm. A chord of length 24 cm is \ndrawn in the circle. Find the distance from the centre of the circle \nto the chord.\n\t\n4.\t A circle has a radius of 15 cm. A chord is drawn. The distance",
+        "source": "I'm Up and Down, and Round and Round.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_i'm_up_and_down,_and_round_and_round_42",
+        "text": "drawn in the circle. Find the distance from the centre of the circle \nto the chord.\n\t\n4.\t A circle has a radius of 15 cm. A chord is drawn. The distance \nfrom the centre of the circle to the chord is 9 cm. What is the \nlength of the chord?\n\t\n5.\t Prove that the perpendicular bisector of a chord passes through \nthe centre of the circle.\n\t\n6.\t The diameter of a circle is AB. Point C is on the circumference. \nWhat is the measure of the ∠ACB? Explain your reasoning.\n\t\n7.\t ABCD is a cyclic quadrilateral inscribed in a circle. If ∠A \nmeasures 75°, what is the measure of ∠C? If ∠B measures 110°, \nwhat is the measure of ∠D?\n\t\n8.\t Quadrilateral PQRS is inscribed in a circle. If ∠P = (2x + 10)° \nand ∠R = (3x − 20)°, find the value of x and the measures of \n∠P and ∠R.\n\t\n9.\t The distance of a chord of length 16 cm from the centre of a \ncircle is 6 cm. Find the radius of the circle.\n\t 10.\t A cyclic quadrilateral has sides 5, 5, 12, 12 units. Find its area.",
+        "source": "I'm Up and Down, and Round and Round.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_i'm_up_and_down,_and_round_and_round_43",
+        "text": "9.\t The distance of a chord of length 16 cm from the centre of a \ncircle is 6 cm. Find the radius of the circle.\n\t 10.\t A cyclic quadrilateral has sides 5, 5, 12, 12 units. Find its area.\n\t*11.\t Consider a cyclic quadrilateral. Without drawing its circumcircle, \nhow can we find out whether the centre of the circumcircle lies \nI’m Up and Down, and Round and Round\n115\ninside the quadrilateral or outside? What is the best way of \nfinding out?\n\t*12.\t When two chords intersect, each of them is divided into two \nline segments. Show that if the intersecting chords are of equal \nlength, then the line segments of one chord are equal to the \ncorresponding line segments of the other chord.\n\t*13.\t Draw a circle in which a chord of 6 cm length stands at a \ndistance of 3 cm from the centre. \n\t\n\t (Hint: Is it a circumcircle of a suitable triangle?)\n\t*14.\t Show that rectangle is the only parallelogram that can be \ninscribed in a circle.",
+        "source": "I'm Up and Down, and Round and Round.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_i'm_up_and_down,_and_round_and_round_44",
+        "text": "distance of 3 cm from the centre. \n\t\n\t (Hint: Is it a circumcircle of a suitable triangle?)\n\t*14.\t Show that rectangle is the only parallelogram that can be \ninscribed in a circle.\n\t*15.\t Show that if a rectangle is inscribed in a circle, then the point of \nintersection of its diagonals must lie at the centre of the circle.\n\t*16.\t Consider all chords of a circle of a fixed length. What is the \nshape formed by the midpoints of all these chords?\n\t*17.\t In a circle with centre O, chords AB and AC are congruent. Explain \nwhy this statement is true: “The centre of the circle lies on the \nangle bisector of ∠BAC”.\n\t 18.\t Two parallel chords of lengths 10 cm and 24 cm are on the same \nside of the centre of a circle. The distance between the chords is \n7 cm. Find the radius of the circle.\n\t*19.\t A regular hexagon is inscribed in a circle of radius r. Find the \nlength of the sides of the hexagon and the distance of each side \nfrom the centre of the circle.",
+        "source": "I'm Up and Down, and Round and Round.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_i'm_up_and_down,_and_round_and_round_45",
+        "text": "*19.\t A regular hexagon is inscribed in a circle of radius r. Find the \nlength of the sides of the hexagon and the distance of each side \nfrom the centre of the circle.\n\t 20.\t A quadrilateral MNOP is inscribed in a circle. If MN is a \ndiameter, what can you say about ∠MOP and ∠MNP? Explain \nyour reasoning.\n\t 21.\t Let ABCD be a cyclic quadrilateral. Explain why the exterior \nangle at any vertex is equal to the interior opposite angle \n(e.g., ∠CDE = ∠ABC, where E is a point on the extension of \nside CD).\n\t*22.\t “There is no chord of a circle that is longer than its diameter.” \nHow do you justify this statement?\n\t*23.\t Let A be any point within a given circle with centre O. Show that \nthe shortest chord of the circle that passes through point A is the \none that is perpendicular to OA.\nGanita Manjari |Grade 9| Part I\n116\n\t 24.\t How would you use the following figure to justify the statement \nthat the angle in a semicircle is 90°?\nb\na\nO\nA\nFig. 5.30",
+        "source": "I'm Up and Down, and Round and Round.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_i'm_up_and_down,_and_round_and_round_46",
+        "text": "one that is perpendicular to OA.\nGanita Manjari |Grade 9| Part I\n116\n\t 24.\t How would you use the following figure to justify the statement \nthat the angle in a semicircle is 90°?\nb\na\nO\nA\nFig. 5.30\n\t *25.\t In a circle, two chords CC' and DD' are drawn perpendicular to a \ndiameter AB. Prove that the segment MM' joining the midpoints \nof the chords CD and C' D' is perpendicular to AB.\n\t *26.\t How would you use the following figure to justify the statement \nthat the sum of the opposite angles of a cyclic quadrilateral \nis 180°?\nB\nA\nO\nC\nD\nv\np\nq\nu\nFig. 5.31\nChapter Summary \n•\t\nA circle is the set of all points in a plane that lie at a given \ndistance (the radius) from a fixed point called its centre. \n•\t\nA circle has reflection symmetry across any diameter. \nI’m Up and Down, and Round and Round\n117\n•\t\nA circle has rotational symmetry about its centre, through any \nangle. \n•\t\nInfinitely many circles can be drawn through two given points.",
+        "source": "I'm Up and Down, and Round and Round.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_i'm_up_and_down,_and_round_and_round_47",
+        "text": "I’m Up and Down, and Round and Round\n117\n•\t\nA circle has rotational symmetry about its centre, through any \nangle. \n•\t\nInfinitely many circles can be drawn through two given points. \nThe centres of these circles lie on the perpendicular bisector of \nthe line segment joining the two given points. \n•\t\nGiven any three points not on a straight line, a unique circle \ncan be drawn through them; it is called the circumcircle of the \ntriangle whose vertices are the three given points. The centre \nof this circle is called the circumcentre of the three points, lies \nat the intersection of the perpendicular bisectors of the line \nsegments joining the points. \n•\t\nEqual chords subtend equal angles at the centre of the circle. \nConversely, if two chords subtend equal angles at the centre, the \nchords are equal in length.​\n•\t\nA line drawn from the centre to the midpoint of a chord is \nperpendicular to that chord. Conversely, a perpendicular from \nthe centre to a chord bisects it.​\n•",
+        "source": "I'm Up and Down, and Round and Round.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_i'm_up_and_down,_and_round_and_round_48",
+        "text": "chords are equal in length.​\n•\t\nA line drawn from the centre to the midpoint of a chord is \nperpendicular to that chord. Conversely, a perpendicular from \nthe centre to a chord bisects it.​\n•\t\nChords of equal length lie at equal distance from the centre. \nConversely, chords that lie at the same distance from the centre \nare equal in length. \n•\t\nGiven two unequal chords, the longer chord is closer to the \ncentre.​\n•\t\nThe angle subtended by an arc at the centre of a circle is twice \nthe angle it subtends at any point on the remaining part of \nthe circle.​\n•\t\nThe angle subtended by a diameter at any point on the circle \nis 90°.​\n•\t\nIf a line segment between two points subtends equal angles at \ntwo other points on the same side of the segment, all four points \nlie on a single circle (i.e., the points are concyclic).​\n•\t\nA quadrilateral inscribed in a circle is called cyclic. In a cyclic \nquadrilateral, the sum of opposite pairs of angles is 180°.",
+        "source": "I'm Up and Down, and Round and Round.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_i'm_up_and_down,_and_round_and_round_49",
+        "text": "lie on a single circle (i.e., the points are concyclic).​\n•\t\nA quadrilateral inscribed in a circle is called cyclic. In a cyclic \nquadrilateral, the sum of opposite pairs of angles is 180°. \nConversely, if two opposite angles of a quadrilateral add up to \n180°, then it is a cyclic quadrilateral.​",
+        "source": "I'm Up and Down, and Round and Round.pdf",
+        "class": 9,
+        "subject": "Maths"
+    }
+]

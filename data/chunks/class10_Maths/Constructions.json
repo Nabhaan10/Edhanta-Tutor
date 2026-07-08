@@ -1,0 +1,93 @@
+[
+    {
+        "id": "class10_maths_constructions_1",
+        "text": "216\nMATHEMATICS\n11\n11.1 Introduction\nIn Class IX, you have done certain constructions using a straight edge (ruler) and a\ncompass, e.g., bisecting an angle, drawing the perpendicular bisector of a line segment,\nsome constructions of triangles etc. and also gave their justifications. In this chapter,\nwe shall study some more constructions by using the knowledge of the earlier\nconstructions. You would also be expected to give the mathematical reasoning behind\nwhy such constructions work.\n11.2 Division of a Line Segment\nSuppose a line segment is given and you have to divide it in a given ratio, say 3 : 2. You\nmay do it by measuring the length and then marking a point on it that divides it in the\ngiven ratio. But suppose you do not have any way of measuring it precisely, how\nwould you find the point? We give below two ways for finding such a point.\nConstruction 11.1 : To divide a line segment in a given ratio.",
+        "source": "Constructions.pdf",
+        "class": 10,
+        "subject": "Maths"
+    },
+    {
+        "id": "class10_maths_constructions_2",
+        "text": "would you find the point? We give below two ways for finding such a point.\nConstruction 11.1 : To divide a line segment in a given ratio.\nGiven a line segment AB, we want to divide it in the ratio m : n, where both m and\nn are positive integers. To help you to understand it, we shall take m = 3 and n = 2.\nSteps of Construction :\n1. Draw any ray AX, making an acute angle with AB.\n2. Locate 5 (= m + n) points A1, A2, A3, A4 and\nA5 on AX so that AA1 = A1A2 = A2A3 = A3A4\n= A4A5.\n3. Join BA5.\n4. Through the point A3 (m = 3), draw a line\nparallel to A5B (by making an angle equal to\n∠ AA5B) at A3 intersecting AB at the point C\n(see Fig. 11.1). Then, AC : CB = 3 : 2.\nCONSTRUCTIONS\nFig. 11.1\n2018-19\nCONSTRUCTIONS\n217\nLet us see how this method gives us the required division.\nSince A3C is parallel to A5B, therefore,\n3\n3\n5\nAA\nA A  = AC\nCB\n(By the Basic Proportionality Theorem)\nBy construction, \n3\n3\n5\nAA\n3\nAC\n3\nTherefore,\nA A\n2\nCB\n2\n=\n⋅\n=\n.\nThis shows that C divides AB in the ratio 3 : 2.",
+        "source": "Constructions.pdf",
+        "class": 10,
+        "subject": "Maths"
+    },
+    {
+        "id": "class10_maths_constructions_3",
+        "text": "3\n3\n5\nAA\nA A  = AC\nCB\n(By the Basic Proportionality Theorem)\nBy construction, \n3\n3\n5\nAA\n3\nAC\n3\nTherefore,\nA A\n2\nCB\n2\n=\n⋅\n=\n.\nThis shows that C divides AB in the ratio 3 : 2.\nAlternative Method\nSteps of Construction :\n1. Draw any ray AX making an acute angle with AB.\n2. Draw a ray BY parallel to AX by making ∠ ABY equal to ∠ BAX.\n3. Locate the points A1, A2, A3 (m = 3) on AX and B1, B2 (n = 2) on BY such that\nAA1 = A1A2 = A2A3 = BB1 = B1B2.\n4. Join A3B2. Let it intersect AB at a point C (see Fig. 11.2).\nThen AC : CB = 3 : 2.\nWhy does this method work? Let us see.\nHere ∆ AA3C is similar to ∆ BB2C. (Why ?)\nThen\n3\n2\nAA\nAC\nBB\nBC\n=\n.\nSince by construction, \n3\n2\nAA\n3 ,\nBB\n2\n=\n therefore, AC\n3\nBC\n2\n=\n⋅\nIn fact, the methods given above work for dividing the line segment in any ratio.\nWe now use the idea of the construction above for constructing a triangle similar\nto a given triangle whose sides are in a given ratio with the corresponding sides of the\ngiven triangle.",
+        "source": "Constructions.pdf",
+        "class": 10,
+        "subject": "Maths"
+    },
+    {
+        "id": "class10_maths_constructions_4",
+        "text": "We now use the idea of the construction above for constructing a triangle similar\nto a given triangle whose sides are in a given ratio with the corresponding sides of the\ngiven triangle.\nConstruction 11.2 : To construct a triangle similar to a given triangle as per\ngiven scale factor.\nThis construction involves two different situations. In one, the triangle to be\nconstructed is smaller and in the other it is larger than the given triangle. Here, the\nscale factor means the ratio of the sides of the triangle to be constructed with the\ncorresponding sides of the given triangle (see also Chapter 6). Let us take the following\nexamples for understanding the constructions involved. The same methods would\napply for the general case also.\nFig. 11.2\n2018-19\n218\nMATHEMATICS\nExample 1 : Construct a triangle similar to a given triangle ABC with its sides equal\nto 3\n4  of the corresponding sides of the triangle ABC (i.e., of scale factor 3\n4 ).",
+        "source": "Constructions.pdf",
+        "class": 10,
+        "subject": "Maths"
+    },
+    {
+        "id": "class10_maths_constructions_5",
+        "text": "2018-19\n218\nMATHEMATICS\nExample 1 : Construct a triangle similar to a given triangle ABC with its sides equal\nto 3\n4  of the corresponding sides of the triangle ABC (i.e., of scale factor 3\n4 ).\nSolution : Given a triangle ABC, we are required to construct another triangle whose\nsides are 3\n4  of the corresponding sides of the triangle ABC.\nSteps of Construction :\n1. Draw any ray BX making an acute angle\nwith BC on the side opposite to the vertex\nA.\n2. Locate 4 (the greater of 3 and 4 in 3\n4 )\npoints B1, B2, B3 and B4 on BX so that\nBB1 = B1B2 = B2B3 = B3B4.\n3. Join B4C and draw a line through B3 (the\n3rd point, 3 being smaller of 3 and 4 in\n3\n4 ) parallel to B4C to intersect BC at C′.\n4. Draw a line through C′ parallel\nto the line CA to intersect BA at A′\n(see Fig. 11.3).\nThen, ∆ A′BC′ is the required triangle.\nLet us now see how this construction gives the required triangle.\nBy Construction 11.1, BC\n3\nC C\n1\n′ =\n⋅\n′\nTherefore, BC\nBC + C C\nC C\n1\n4\n1\n1\nBC\nBC\nBC\n3\n3\n′\n′\n′\n=\n=\n+\n=\n+\n=\n′\n′",
+        "source": "Constructions.pdf",
+        "class": 10,
+        "subject": "Maths"
+    },
+    {
+        "id": "class10_maths_constructions_6",
+        "text": "Let us now see how this construction gives the required triangle.\nBy Construction 11.1, BC\n3\nC C\n1\n′ =\n⋅\n′\nTherefore, BC\nBC + C C\nC C\n1\n4\n1\n1\nBC\nBC\nBC\n3\n3\n′\n′\n′\n=\n=\n+\n=\n+\n=\n′\n′\n′\n, i.e., BC\nBC\n′\n = 3\n4 .\nAlso C′A′ is parallel to CA. Therefore, ∆ A′BC′ ~ ∆ ABC.\n(Why ?)\nSo,\nA B\nA C\nBC\n3\nAB\nAC\nBC\n4\n′\n′ ′\n′\n=\n=\n=\n⋅\nExample 2 : Construct a triangle similar to a given triangle ABC with its sides equal\nto 5\n3  of the corresponding sides of the triangle ABC (i.e., of scale factor 5\n3 ).\nFig. 11.3\n2018-19\nCONSTRUCTIONS\n219\nSolution : Given a triangle ABC, we are required to construct a triangle whose sides\nare 5\n3  of the corresponding sides of ∆ ABC.\nSteps of Construction :\n1. Draw any ray BX making an acute angle with BC on the side opposite to the\nvertex A.\n2. Locate 5 points (the greater of 5 and 3 in 5\n3 ) B1, B2, B3, B4 and B5 on BX so that\nBB1 = B1B2 = B2B3 = B3B4 = B4B5.\n3. Join B3(the 3rd point, 3 being smaller of 3 and 5 in 5\n3 ) to C and draw a line through",
+        "source": "Constructions.pdf",
+        "class": 10,
+        "subject": "Maths"
+    },
+    {
+        "id": "class10_maths_constructions_7",
+        "text": "3 ) B1, B2, B3, B4 and B5 on BX so that\nBB1 = B1B2 = B2B3 = B3B4 = B4B5.\n3. Join B3(the 3rd point, 3 being smaller of 3 and 5 in 5\n3 ) to C and draw a line through\nB5 parallel to B3C, intersecting the extended line segment BC at C′.\n4. Draw a line through C′ parallel to CA\nintersecting the extended line segment BA at\nA′ (see Fig. 11.4).\nThen A′BC′ is the required triangle.\nFor justification of the construction, note that\n∆ ABC ~ ∆ A′BC′. (Why ?)\nTherefore, AB\nAC\nBC\nA B\nA C\nBC\n=\n=\n⋅\n′\n′ ′\n′\nBut,  \n3\n5\nBB\nBC\n3,\nBC\nBB\n5\n=\n=\n′\nSo, BC\n5 ,\nBC\n3\n′ =\n and, therefore, A B\nA C\nBC\n5\nAB\nAC\nBC\n3\n′\n′ ′\n′\n=\n=\n=\n⋅\nRemark : In Examples 1 and 2, you could take a ray making an acute angle with AB\nor AC and proceed similarly.\nEXERCISE 11.1\nIn each of the following, give the justification of the construction also:\n1. Draw a line segment of length 7.6 cm and divide it in the ratio 5 : 8. Measure the two\nparts.\nFig. 11.4\n2018-19\n220\nMATHEMATICS",
+        "source": "Constructions.pdf",
+        "class": 10,
+        "subject": "Maths"
+    },
+    {
+        "id": "class10_maths_constructions_8",
+        "text": "1. Draw a line segment of length 7.6 cm and divide it in the ratio 5 : 8. Measure the two\nparts.\nFig. 11.4\n2018-19\n220\nMATHEMATICS\n2. Construct a triangle of sides 4 cm, 5 cm and 6 cm and then a triangle similar to it whose\nsides are 2\n3  of the corresponding sides of the first triangle.\n3. Construct a triangle with sides 5 cm, 6 cm and 7 cm and then another triangle whose\nsides are \n7\n5  of the corresponding sides of the first triangle.\n4. Construct an isosceles triangle whose base is 8 cm and altitude 4 cm and then another\ntriangle whose sides are 1\n12\n times the corresponding sides of the isosceles triangle.\n5. Draw a triangle ABC with side BC = 6 cm, AB = 5 cm and ∠ ABC = 60°. Then construct\na triangle whose sides are 3\n4  of the corresponding sides of the triangle ABC.\n6. Draw a triangle ABC with side BC = 7 cm, ∠ B = 45°, ∠ A = 105°. Then, construct a\ntriangle whose sides are 4\n3  times the corresponding sides of ∆ ABC.",
+        "source": "Constructions.pdf",
+        "class": 10,
+        "subject": "Maths"
+    },
+    {
+        "id": "class10_maths_constructions_9",
+        "text": "6. Draw a triangle ABC with side BC = 7 cm, ∠ B = 45°, ∠ A = 105°. Then, construct a\ntriangle whose sides are 4\n3  times the corresponding sides of ∆ ABC.\n7. Draw a right triangle in which the sides (other than hypotenuse) are of lengths 4 cm and\n3 cm. Then construct another triangle whose sides are 5\n3\n times the corresponding sides\nof the given triangle.\n11.3 Construction of Tangents to a Circle\nYou have already studied in the previous chapter that if a point lies inside a circle,\nthere cannot be a tangent to the circle through this point. However, if a point lies on the\ncircle, then there is only one tangent to the circle at this point and it is perpendicular to\nthe radius through this point. Therefore, if you want to draw a tangent at a point of a\ncircle, simply draw the radius through this point and draw a line perpendicular to this\nradius through this point and this will be the required tangent at the point.",
+        "source": "Constructions.pdf",
+        "class": 10,
+        "subject": "Maths"
+    },
+    {
+        "id": "class10_maths_constructions_10",
+        "text": "circle, simply draw the radius through this point and draw a line perpendicular to this\nradius through this point and this will be the required tangent at the point.\nYou have also seen that if the point lies outside the circle, there will be two\ntangents to the circle from this point.\nWe shall now see how to draw these tangents.\nConstruction 11.3 : To construct the tangents to a circle from a point outside it.\nWe are given a circle with centre O and a point P outside it. We have to construct\nthe two tangents from P to the circle.\n2018-19\nCONSTRUCTIONS\n221\nSteps of Construction:\n1. Join PO and bisect it. Let M be the mid-\npoint of PO.\n2. Taking M as centre and MO as radius, draw\na circle. Let it intersect the given circle at\nthe points Q and R.\n3. Join PQ and PR.\nThen PQ and PR are the required two\ntangents (see Fig. 11.5).\nNow let us see how this construction works.\nJoin OQ. Then ∠ PQO is an angle in the\nsemicircle and, therefore,\n∠ PQO = 90°\nCan we say that PQ ⊥ OQ?",
+        "source": "Constructions.pdf",
+        "class": 10,
+        "subject": "Maths"
+    },
+    {
+        "id": "class10_maths_constructions_11",
+        "text": "tangents (see Fig. 11.5).\nNow let us see how this construction works.\nJoin OQ. Then ∠ PQO is an angle in the\nsemicircle and, therefore,\n∠ PQO = 90°\nCan we say that PQ ⊥ OQ?\nSince, OQ is a radius of the given circle, PQ has to be a tangent to the circle. Similarly,\nPR is also a tangent to the circle.\nNote : If centre of the circle is not given, you may locate its centre first by taking any\ntwo non-parallel chords and then finding the point of intersection of their perpendicular\nbisectors. Then you could proceed as above.\nEXERCISE 11.2\nIn each of the following, give also the justification of the construction:\n1. Draw a circle of radius 6 cm. From a point 10 cm away from its centre, construct the pair\nof tangents to the circle and measure their lengths.\n2. Construct a tangent to a circle of radius 4 cm from a point on the concentric circle of\nradius 6 cm and measure its length. Also verify the measurement by actual calculation.",
+        "source": "Constructions.pdf",
+        "class": 10,
+        "subject": "Maths"
+    },
+    {
+        "id": "class10_maths_constructions_12",
+        "text": "2. Construct a tangent to a circle of radius 4 cm from a point on the concentric circle of\nradius 6 cm and measure its length. Also verify the measurement by actual calculation.\n3. Draw a circle of radius 3 cm. Take two points P and Q on one of its extended diameter\neach at a distance of 7 cm from its centre. Draw tangents to the circle from these two\npoints P and Q.\n4. Draw a pair of tangents to a circle of radius 5 cm which are inclined to each other at an\nangle of 60°.\n5. Draw a line segment AB of length 8 cm. Taking A as centre, draw a circle of radius 4 cm\nand taking B as centre, draw another circle of radius 3 cm. Construct tangents to each\ncircle from the centre of the other circle.\nFig. 11.5\n2018-19\n222\nMATHEMATICS\n6. Let ABC be a right triangle in which AB = 6 cm, BC = 8 cm and ∠ B = 90°. BD is the\nperpendicular from B on AC. The circle through B, C, D is drawn. Construct the tangents\nfrom A to this circle.",
+        "source": "Constructions.pdf",
+        "class": 10,
+        "subject": "Maths"
+    },
+    {
+        "id": "class10_maths_constructions_13",
+        "text": "6. Let ABC be a right triangle in which AB = 6 cm, BC = 8 cm and ∠ B = 90°. BD is the\nperpendicular from B on AC. The circle through B, C, D is drawn. Construct the tangents\nfrom A to this circle.\n7. Draw a circle with the help of a bangle. Take a point outside the circle. Construct the pair\nof tangents from this point to the circle.\n11.4 Summary\nIn this chapter, you have learnt how to do the following constructions:\n1. To divide a line segment in a given ratio.\n2. To construct a triangle similar to a given triangle as per a given scale factor which\nmay be less than 1 or greater than 1.\n3. To construct the pair of tangents from an external point to a circle.\nA NOTE TO THE READER\nConstruction of a quadrilateral (or a polygon) similar to a given quadrilateral\n(or a polygon) with a given scale factor can also be done following the\nsimilar steps as used in Examples 1 and 2 of Construction 11.2.\n2018-19",
+        "source": "Constructions.pdf",
+        "class": 10,
+        "subject": "Maths"
+    }
+]

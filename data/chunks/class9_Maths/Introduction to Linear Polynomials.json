@@ -1,0 +1,289 @@
+[
+    {
+        "id": "class9_maths_introduction_to_linear_polynomials_1",
+        "text": "Introduction to \nLinear Polynomials\n2.1 Introduction\nWe have learnt about algebraic expressions in earlier grades. In this \nchapter, we will learn about the special types of algebraic expressions \ncalled linear polynomials. Let us first consider a few examples of \n­algebraic expressions.\nExample 1: Raju went to a shop \nwhere there were sealed boxes of \ndifferent colours on sale. The shop \nowner told him that the red boxes \nhave 4 pens each and the blue ­ \nboxes have 5 pencils each. Now, if \nRaju bought x red boxes and y blue \nboxes, how can he quickly figure \nout the total quantity of pens and \npencils? Also, if he got 3 extra pens \nfree, how many pens and pencils did \nhe get altogether?\nObserve that x red boxes will have 4x pens and y blue boxes will \nhave 5y pencils. Also, he got 3 extra pens free. Thus, the total number \nof pens and pencils is given by the algebraic expression 4x + 5y + 3. \nIn this  example, 4x, 5y and 3 are terms of the expression, x and y are",
+        "source": "Introduction to Linear Polynomials.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_introduction_to_linear_polynomials_2",
+        "text": "of pens and pencils is given by the algebraic expression 4x + 5y + 3. \nIn this  example, 4x, 5y and 3 are terms of the expression, x and y are \nletter-numbers, the numbers 4 and 5 are the coefficients of x and y, \nrespectively, and 3 is a constant. From now onwards, we will use a \nwidely used alternate word for letter-numbers: variables. Thus in the \nexpression 4x + 5y + 3, we say that the variables used are x and y.\nExample 2: A rectangular garden of length l metres and width w \nmetres has to be fenced and decorated. A wire fence is to be laid along \nthe length costing `100 per metre and a wooden fence is to be built \nalong the width costing `80 per metre. Special seeds have to be sown \nthroughout the garden which will cost `50 per square metre. \n2\nFig. 2.1\nIntroduction to Linear Polynomials\n17\nFig. 2.2\nWhat will be the total cost incurred?\nCost of wire fencing along the garden length = 2l × 100 = `200l\nCost of wooden fencing along the garden width = 2w × 80 = `160w",
+        "source": "Introduction to Linear Polynomials.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_introduction_to_linear_polynomials_3",
+        "text": "17\nFig. 2.2\nWhat will be the total cost incurred?\nCost of wire fencing along the garden length = 2l × 100 = `200l\nCost of wooden fencing along the garden width = 2w × 80 = `160w\nCost of sowing seeds throughout the entire garden (depends on \nthe area) = 50 × l × w = `50lw\nTotal cost = ` (200l + 160w + 50lw).\nThus, 200l + 160w + 50lw is the algebraic expression for the total cost.\nThink and Reflect\n1.\t Can you identify the terms, variables and coefficients of this ­algebraic \n­expression? \n2.\t How is it different from the algebraic expression in ­Example 1? \nExample 3: A wire of length 20 cm is bent in different ways to form \nrectangles. For example, we can have a rectangle with length 7 cm and \nwidth 3 cm. We can also have one of length 5.5 cm and width 4.5 cm. \n(Think of a few more ways of forming such rectangles.) Can you write \nan expression for the area of such rectangles?\nIf the length of the rectangle is x cm, then the width is (10 – x) cm.",
+        "source": "Introduction to Linear Polynomials.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_introduction_to_linear_polynomials_4",
+        "text": "(Think of a few more ways of forming such rectangles.) Can you write \nan expression for the area of such rectangles?\nIf the length of the rectangle is x cm, then the width is (10 – x) cm. \nThe expression for the area of these rectangles is x(10 – x) or 10x – x2. \nThink and Reflect\n1.\t Can you identify the terms, variables and coefficients of this algebraic \n­expression? \n2.\t Can you point out any similarity or difference between the algebraic \n­expressions obtained in Examples 1 and 3? \nGanita Manjari | Grade 9 | Part I\n18\nNote that the algebraic expressions in Example 1 and Example 2 \ninvolve two variables, whereas the algebraic expression in Example 3 \ninvolves only one variable. \nExpressions such as 4x, x2 + 1, 2y – 5, 5y3 + y2 + 2y – 1, 3z + 7 are \nalgebraic expressions that involve only one variable: x, y or z. \nIn this chapter, we will restrict our discussion to algebraic \nexpressions involving only one variable. You may have noticed that",
+        "source": "Introduction to Linear Polynomials.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_introduction_to_linear_polynomials_5",
+        "text": "algebraic expressions that involve only one variable: x, y or z. \nIn this chapter, we will restrict our discussion to algebraic \nexpressions involving only one variable. You may have noticed that \nin an algebraic expression, the powers of a variable also appear. For \nexample, in the expression x2 + 5x + 1, the highest power of x is 2, \nwhereas in the expression 5y3 + y2 – 8, the highest power of the variable \ny is 3. Further, in the expression 5y3 + y2 + 2y – 1, the coefficient of y3 \nis 5, that of y2 is 1, that of y is 2 and the constant term is –1. Such \nalgebraic expressions involving one variable  and its powers are \ncalled one-variable polynomials, univariate polynomials, or when \nthe context is clear, simply polynomials. (‘univariate’ means ‘having \none variable’). The highest power of the variable in a polynomial is \ncalled its degree. For example: \n\t (i)\t 5y3 + y2 + 2y – 1 is a polynomial of degree 3. Such polynomials are \ncalled cubic polynomials.",
+        "source": "Introduction to Linear Polynomials.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_introduction_to_linear_polynomials_6",
+        "text": "called its degree. For example: \n\t (i)\t 5y3 + y2 + 2y – 1 is a polynomial of degree 3. Such polynomials are \ncalled cubic polynomials.\n\t(ii)\t \u0007x2 + 5x + 1 is a polynomial of degree 2. Such polynomials are called \nquadratic polynomials. \n\t(iii)\t \u00073z + 7 is a polynomial of degree 1. Such polynomials are called \nlinear polynomials. \n\t(iv)\t \u0007The constant 8 is a polynomial of degree 0 as it can be written as \n8x0 in which the power of the variable x is 0. Such polynomials are \ncalled constant polynomials.\nExercise Set 2.1\n\t 1.\t Find the degrees of the following polynomials: \n\t\n(i)\t 2x2 – 5x + 3\n \t\n(ii)\t y3 + 2y – 1\n\t\n(iii)\t – 9\n\t\n(iv)\t 4z – 3\n\t 2.\t Write polynomials of degrees 1, 2 and 3. \n\t 3.\t \u0007What are the coefficients of x2 and x3 in the polynomial \n\t\n\t x4 – 3x3 + 6x2 – 2x + 7?\nIntroduction to Linear Polynomials\n19\n\t 4.\t What is the coefficient of z in the polynomial 4z3 + 5z2 – 11?\n\t 5.\t What is the constant term of the polynomial 9x3 + 5x2 – 8x –10?",
+        "source": "Introduction to Linear Polynomials.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_introduction_to_linear_polynomials_7",
+        "text": "Introduction to Linear Polynomials\n19\n\t 4.\t What is the coefficient of z in the polynomial 4z3 + 5z2 – 11?\n\t 5.\t What is the constant term of the polynomial 9x3 + 5x2 – 8x –10?\nRecall that polynomials of degree 1 are called linear polynomials. \nIn this chapter, we shall study linear polynomials. \n2.2 Linear Polynomials\nWe begin with some examples involving linear polynomials.\nExample 4: The perimeter of a square of side x is 4x, which is a \nlinear polynomial in the variable x. \nThink and Reflect\nFind the perimeter of squares with sides 1 cm, 1.5 cm, 2 cm, 2.5 cm and \n3 cm. What will happen to the perimeters if the sides increase by 0.5 cm?\nExample 5: A chess club charges a joining fee of `200 plus `50 for \nevery match played. The following table shows the amount a player will \nhave to pay as the number of matches varies.\nNumber of \nmatches played\n1\n2\n3\n4\n5\n…\nm\nAmount paid (`)\n250\n300\n350\n400\n450\n…\n200 + 50m\nHence, if m is the number of matches played, the total cost will be",
+        "source": "Introduction to Linear Polynomials.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_introduction_to_linear_polynomials_8",
+        "text": "Number of \nmatches played\n1\n2\n3\n4\n5\n…\nm\nAmount paid (`)\n250\n300\n350\n400\n450\n…\n200 + 50m\nHence, if m is the number of matches played, the total cost will be \n`(200 + 50m). Observe that 200 + 50m is a linear polynomial in the \nvariable m. The amount paid increases by the constant value of `50 for \nevery additional match played. \nThink and Reflect\nIf a player paid `750, how many matches did he play?\nThe examples given above highlight a characteristic feature of linear \n­polynomials — that the difference between the successive values at \nintegers is ­constant. In Example 4, the perimeters increase by 2 cm each \ntime the side of the square increases by 0.5 cm. Similarly in Example 5, \nGanita Manjari | Grade 9 | Part I\n20\nthe amount paid by a player increases by `50 for every additional match \nplayed. Such patterns are called linear patterns.\nWhen we equate a linear polynomial in one variable to a constant, \nwe get a linear equation. Let us consider the following example.",
+        "source": "Introduction to Linear Polynomials.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_introduction_to_linear_polynomials_9",
+        "text": "played. Such patterns are called linear patterns.\nWhen we equate a linear polynomial in one variable to a constant, \nwe get a linear equation. Let us consider the following example. \nExample 6: The sum of two numbers is 64. One of the numbers is 10 \nmore than the other. What are the two numbers? \nLet the smaller number be x. Then the larger number must be \nx + 10. Since their sum is 64, we have the linear equation x + (x + 10) = 64. \nThis implies that 2x + 10 = 64. Note that 2x + 10 is a linear polynomial. \nBy equating it to 64 we get a linear equation 2x = 54 or x = 27. The numbers \nare therefore, 27 and 37.\nPolynomials can also be thought of as input-output processes. \nFor  instance, consider the linear polynomial 2x + 3. For every x, there is \na corresponding value of the polynomial 2x + 3. For instance, if x = 4, we \nsubstitute 4 in the expression to get 2 × 4 + 3 = 11.\nIf x = –6, then we substitute –6 in the expression to get 2 × –6 + 3 = –9.",
+        "source": "Introduction to Linear Polynomials.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_introduction_to_linear_polynomials_10",
+        "text": "substitute 4 in the expression to get 2 × 4 + 3 = 11.\nIf x = –6, then we substitute –6 in the expression to get 2 × –6 + 3 = –9.\nFig. 2.3 shows this process as an input-output machine where the \ninput is the value of x and the output is the value of 2x + 3. This process can \nbe referred to as a function where the expression 2x + 3 is a function of \nthe variable x. You will learn more about functions in later grades.\nFig. 2.3: A linear expression as an input-output process\nThink and Reflect\nWe have learnt that to evaluate the value of an algebraic expression, \nwe substitute a value of the variable in the given expression. Consider \n­Example 3, where the wire is bent to form a rectangle. Here, the area \nof the rectangle, 10x – x2, is a function of x. Can you interpret this as \nan input-output process? What value does the expression take when \nx = 6 cm? \nIntroduction to Linear Polynomials\n21\nNote that 2x + 3 is a linear function, whereas 10x – x2 is a quadratic \n­function.",
+        "source": "Introduction to Linear Polynomials.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_introduction_to_linear_polynomials_11",
+        "text": "an input-output process? What value does the expression take when \nx = 6 cm? \nIntroduction to Linear Polynomials\n21\nNote that 2x + 3 is a linear function, whereas 10x – x2 is a quadratic \n­function.\nExercise Set 2.2\n\t 1.\t Find the value of the linear polynomial 5x – 3 if:\n\t\n(i)\t\nx = 0\t\n(ii)\t x = –1\t\n(iii)\t x = 2\n\t 2.\t Find the value of the quadratic polynomial 7s2 – 4s + 6 if:\n\t\n(i)\t\ns = 0\t\n(ii)\t s = –3\t\n(iii)\t s = 4\n\t 3.\t \u0007The present age of Salil’s mother is three times Salil’s present age. \nAfter 5 years, their ages will add up to 70 years. Find their present \nages.\n\t 4.\t \u0007The difference between two positive integers is 63. The ratio of the \ntwo integers is 2:5. Find the two integers.\n\t 5.\t \u0007Ruby has 3 times as many two-rupee coins as she has five \n­rupee-coins. If she has a total `88, how many coins does she have \nof each type? \n\t 6.\t \u0007A farmer cuts a 300 feet fence into two pieces of different sizes. \nThe longer piece is four times as long as the shorter piece. How",
+        "source": "Introduction to Linear Polynomials.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_introduction_to_linear_polynomials_12",
+        "text": "of each type? \n\t 6.\t \u0007A farmer cuts a 300 feet fence into two pieces of different sizes. \nThe longer piece is four times as long as the shorter piece. How \nlong are the two pieces?\n\t 7.\t \u0007If the length of a rectangle is three more than twice its width and \nits perimeter is 24 cm, what are the dimensions of the rectangle?\n2.3 Exploring linear patterns\nObserve the following growing pattern of square tiles.\n\t\n\t\n\t\n\t\n\t\nStage 1\t\nStage 2\t\nStage 3\t\nStage 4\nFig. 2.4: A growing pattern of square tiles\nGanita Manjari | Grade 9 | Part I\n22\nThink and Reflect\nPredict the number of squares in the next three stages of the pattern and \nwrite the sequence of numbers up to Stage 7 of the pattern.\nEach stage is obtained by adding two more tiles to the previous stage. \nThe table mentions the number of tiles for the first seven stages. \nStage\n1\n2\n3\n4\n5\n6\n7\nNumber of the \nsquare tiles\n1\n3\n5\n7\n9\n11\n13\nTo generalise this pattern, we observe that the number of squares at",
+        "source": "Introduction to Linear Polynomials.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_introduction_to_linear_polynomials_13",
+        "text": "Stage\n1\n2\n3\n4\n5\n6\n7\nNumber of the \nsquare tiles\n1\n3\n5\n7\n9\n11\n13\nTo generalise this pattern, we observe that the number of squares at \neach stage is one less than twice the number of the term. For example, \nin Term 2, the number of squares is 2 × 2 – 1 = 3, in Term 5, the number \nof squares is 2 × 5 – 1 = 9 and so on.\nThis leads us to conclude that the number of squares at Stage n is \ngiven by 2n – 1.\nThe polynomial 2n – 1 has  degree 1. Hence, it is an example of a \nlinear polynomial. Also, the difference between consecutive terms in \nthe sequence of the number of squares, that is, 1, 3, 5, 7, 9 … is the \nconstant value 2. Thus, with each stage, the number of squares increases \nby 2. The relationship between the number of the stage and the number \nof square tiles is a linear relationship.\nThink and Reflect\nUsing the expression 2n – 1, can you find out how many tiles will be there in \nthe 15th stage and the 26th stage of the pattern? Also, which stage will ­contain",
+        "source": "Introduction to Linear Polynomials.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_introduction_to_linear_polynomials_14",
+        "text": "Think and Reflect\nUsing the expression 2n – 1, can you find out how many tiles will be there in \nthe 15th stage and the 26th stage of the pattern? Also, which stage will ­contain \n21 tiles and 47 tiles?\nExample 7: Bela has `100 for pocket money. She spends `5 every \nday. After how many days will she be left with `40? \nDay  \nNumber\n0\n1\n2\n3\n4\nAmount \nleft (`)\n100\n100 – 1 × 5 \n= 95\n100 – 2 × 5 \n= 90\n100 – 3 × 5 \n= 85\n100 – 4 × 5 \n= 80\nIntroduction to Linear Polynomials\n23\nObserve that the amount left on the nth day will be `(100 – 5n). \nTherefore, on the 12th day the amount left will be `(100 – 12 × 5) = `40.\nThink and Reflect\nWhat amount will be left on the 15th day? How many days will it take for \nthe entire amount to be spent?\nExample 8: An auto-rikshaw fare starts at `25 and remains the same \nfor the initial 2 km. Then it increases by `15 per km. What will be the \nfare for a travel of 10 km?  \nFor the initial 2 km, the fare is `25. For every kilometre (km)",
+        "source": "Introduction to Linear Polynomials.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_introduction_to_linear_polynomials_15",
+        "text": "for the initial 2 km. Then it increases by `15 per km. What will be the \nfare for a travel of 10 km?  \nFor the initial 2 km, the fare is `25. For every kilometre (km) \nthereafter, the fare will increase by `15. Therefore, the total fare for a \ntravel of 10 km will be `25 + 15 × 8 = `145. \nKm travelled\n1\n2\n3\n4\n5\n6\nFare (`)\n25\n25\n25 + 1 × 15 \n= 40\n25 + 2 × 15 \n= 55\n25 + 3 × 15 \n= 70\n25 + 4 × 15 \n= 85\nObserve that the total fare for a travel of n km will be \n`25 + 15 × (n – 2) = 15n – 5, when n ≥ 2. Here, the fare for a specific \ndistance covered is a function of the distance n km.\nThink and Reflect\nFor how many km will the fare be `130? \nNote that in all the above examples, the nth term is a linear expression \nin n. A linear pattern is a sequence of numbers where the difference \nbetween two consecutive terms is constant. We will learn more about \nlinear patterns in the chapter on Sequences and Progressions. \nExercise Set 2.3\nSolve the following:",
+        "source": "Introduction to Linear Polynomials.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_introduction_to_linear_polynomials_16",
+        "text": "between two consecutive terms is constant. We will learn more about \nlinear patterns in the chapter on Sequences and Progressions. \nExercise Set 2.3\nSolve the following:\n\t 1.\t A student has `500 in her savings bank account. She gets `150 every \nmonth as pocket money. How much money will she have at the end \nof every month from the second month onwards? Find a ­linear \nexpression to represent the amount she will have in the nth month.\nGanita Manjari | Grade 9 | Part I\n24\n\t 2.\t \u0007A rally starts with 120 members. Each hour, 9 members drop out of \nthe group. How many members will remain after 1, 2, 3, … hours? \nFind a linear expression to represent the number of members at \nthe end of the nth hour.\n\t 3.\t \u0007Suppose the length of a rectangle is 13 cm. Find the area if the \nbreadth is (i) 12 cm, (ii) 10 cm, (iii) 8 cm. Find the linear pattern \nrepresenting the area of the rectangle.\n\t 4.\t \u0007Suppose the length of a rectangular box is 7 cm and breadth",
+        "source": "Introduction to Linear Polynomials.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_introduction_to_linear_polynomials_17",
+        "text": "breadth is (i) 12 cm, (ii) 10 cm, (iii) 8 cm. Find the linear pattern \nrepresenting the area of the rectangle.\n\t 4.\t \u0007Suppose the length of a rectangular box is 7 cm and breadth \nis 11 cm. Find the volume if the height is (i) 5 cm, (ii) 9 cm, \n(iii) 13 cm. Find the linear pattern representing the volume of the \nrectangular box.\n\t 5.\t \u0007Sarita is reading a book of 500 pages. She reads 20 pages every \nday. How many pages will be left after 15 days? Express this as a \nlinear pattern.\n2.4. Linear growth and linear decay\nLinear expressions help to model situations or phenomena where \nthere is growth or decline. Consider the following examples:\nExample 9: The cost of a journey is given by the linear function \nC(d) = 100 + 60d, where C indicates total cost in rupees and d the \n distance travelled in km. Let us make a table of values for d varying \nfrom 0 to 10 km and show how the cost increases for every km.  \nDistance travelled, d (km)\n0\n1\n2\n3\n4\n5\nCost, C (`)\n100\n160\n220\n280\n340\n400",
+        "source": "Introduction to Linear Polynomials.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_introduction_to_linear_polynomials_18",
+        "text": "from 0 to 10 km and show how the cost increases for every km.  \nDistance travelled, d (km)\n0\n1\n2\n3\n4\n5\nCost, C (`)\n100\n160\n220\n280\n340\n400\nIn this example, as the value of d increases by one km, the value \nof the cost function C, increases by a fixed amount of `60. This is an \nexample of linear growth. \nThink and Reflect\nWhat is the cost for travelling 15 km? For how many kilometres will the cost \nof the journey be `700?\nExample 10: The height of water in a cylindrical tank is 3 m at the \nstart of summer. The height h m at the end of t months is given by the \nlinear function h(t) = 3 – 0.5t. \nIntroduction to Linear Polynomials\n25\nMonth, t\n0\n1\n2\n3\n4\nHeight, h (m)\n3\n2.5\n2\n1.5\n1\nIn the example above, as the value of t increases by a fixed number \n(one month), the value of the height h decreases by a fixed number \n(0.5). Therefore, this example represents linear decay.\nThink and Reflect\nWhat will be the height of the water at the end of 5 months?",
+        "source": "Introduction to Linear Polynomials.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_introduction_to_linear_polynomials_19",
+        "text": "(0.5). Therefore, this example represents linear decay.\nThink and Reflect\nWhat will be the height of the water at the end of 5 months?\nLinear growth describes a linear pattern where a quantity increases by a \nconstant amount over equal intervals. Similarly, linear decay describes \na linear pattern where a quantity decreases by a constant amount over \nequal intervals. \nExercise Set 2.4\n\t 1.\t \u0007Suppose a plant has height 1.75 feet and it grows by 0.5 feet each \nmonth. \n\t\n(i) \t Find the height after 7 months. \n\t\n(ii)\t\n\u0007Make a table of values for t varying from 0 to 10 months and \nshow how the height, h, increases every month. \n\t\n(iii)\t\n\u0007Find an expression that relates h and t, and explain why it \nrepresents linear growth.\n\t 2.\t \u0007A mobile phone is bought for `10,000. Its value decreases by \n`800 every year.\n\t\n(i)\t\n\u0007Find the value of the phone after 3 years.\n\t\n(ii)\t\n\u0007Make a table of values for t varying from 0 to 8 years and \nshow how the value of the phone, v, depreciates with time.",
+        "source": "Introduction to Linear Polynomials.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_introduction_to_linear_polynomials_20",
+        "text": "`800 every year.\n\t\n(i)\t\n\u0007Find the value of the phone after 3 years.\n\t\n(ii)\t\n\u0007Make a table of values for t varying from 0 to 8 years and \nshow how the value of the phone, v, depreciates with time. \n\t\n(iii)\t\n\u0007Find an expression that relates v and t, and explain why it \nrepresents linear decay.\n\t 3.\t \u0007The initial population of a village is 750. Every year, 50 people \nmove from a nearby city to the village.\n\t\n(i)\t\nFind the population of the village after 6 years. \nGanita Manjari | Grade 9 | Part I\n26\n\t\n(ii)\t\n\u0007Make a table of values for t varying from 0 to 10 years and \nshow how the population, P, increases every year.\n\t\n(iii)\t\n\u0007Find an expression that relates P and t, and explain why it \nrepresents linear growth.\n\t 4.\t A telecom company charges `600 for a certain recharge scheme. \nThis prepaid balance is reduced by `15 each day after the  recharge. \n\t\n(i)\t\n\u0007Write an equation that models the remaining balance b(x) \nafter using the scheme for x days. Explain why it represents \nlinear decay.",
+        "source": "Introduction to Linear Polynomials.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_introduction_to_linear_polynomials_21",
+        "text": "(i)\t\n\u0007Write an equation that models the remaining balance b(x) \nafter using the scheme for x days. Explain why it represents \nlinear decay.\n\t\n(ii)\t\nAfter how many days will the balance run out?\n\t\n(iii)\t\n\u0007Make a table of values for x varying from 1 to 10 days and \nshow how the balance b(x), reduces with time.\n2.5 Linear Relationships\nA linear relationship represents the relationship between two \nvariables x and y, and can be expressed as y = ax + b.\nLet us revisit the growing pattern of square tiles in Fig. 2.4. If x \nrepresents the number of the term and y represents the numbers of \nsquare tiles, then the ­linear relationship between x and y is expressed \nas y = 2x – 1. \nSometimes, we may be required to find the linear relationship \nbetween two quantities.\nExample 11: A telecom company charges a fixed monthly fee and \nan additional cost per GB of the internet data used. A student observes \nthat when she used 10 GB, her bill was `350. When she used 20 GB, her",
+        "source": "Introduction to Linear Polynomials.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_introduction_to_linear_polynomials_22",
+        "text": "an additional cost per GB of the internet data used. A student observes \nthat when she used 10 GB, her bill was `350. When she used 20 GB, her \nbill was `550. If the monthly bill y depends on the amount of data used, \nx (in GB), according to the relation y = ax + b, find the values of a and b. \nNote that x = number of GB of the internet data used and y = total \nmonthly cost in Rupees.\nTo find the linear relationship y = ax + b, we note that when x = 10, \ny = 350. Also, when x = 20, y = 550. We substitute these in y = ax + b to \narrive at the following equations.\n350 = 10a + b  and 550 = 20a + b\nWe solve these as follows: Let b = 350 – 10a (from the first equation). \nWe substitute this in the second equation to obtain\n550 = 20a + (350 – 10a)\nThus, 550 = 10a + 350 or 10a = 200. So, a = 20. This leads to \nb = 350 – 10a = 350 – 200 = 150.\nIntroduction to Linear Polynomials\n27\nWe substitute the values of a and b in the equation y = ax + b to \nobtain y = 20x + 150.",
+        "source": "Introduction to Linear Polynomials.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_introduction_to_linear_polynomials_23",
+        "text": "b = 350 – 10a = 350 – 200 = 150.\nIntroduction to Linear Polynomials\n27\nWe substitute the values of a and b in the equation y = ax + b to \nobtain y = 20x + 150.\nThus, y = 20x + 150 represents the linear relationship between y, \nthe bill amount in Rupees, and x, the number of GB of the internet \ndata used.\nThink and Reflect\nCan you guess what the numbers 20 and 150 in the equation y = 20x + 150 \nrepresent?\nExercise Set 2.5\n\t 1.\t \u0007A learning platform charges a fixed monthly fee and an \nadditional cost per digital learning module accessed. A student \nobserves that when she accessed 10 modules, her bill was `400. \nWhen she accessed 14 modules, her bill was `500. If the monthly \nbill y depends on the number of modules accessed, x, according to \nthe relation y = ax + b, find the values of a and b.\n\t 2.\t \u0007A gym charges a fixed monthly fee and an additional cost per hour \nfor using the badminton court. A student using the gym observed",
+        "source": "Introduction to Linear Polynomials.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_introduction_to_linear_polynomials_24",
+        "text": "the relation y = ax + b, find the values of a and b.\n\t 2.\t \u0007A gym charges a fixed monthly fee and an additional cost per hour \nfor using the badminton court. A student using the gym observed \nthat when she used the badminton court for 10 hours, her bill \nwas `800. When she used it for 15 hours, her bill was `1100. If the \nmonthly bill y depends on the hours of the use of the badminton \ncourt, x, according to the relation y = ax + b, find the values of a and b.\n\t 3.\t \u0007Consider the relationship between temperature measured in \n­degrees Celsius (°C) and degrees Fahrenheit (°F), which is given by \n°C = a °F + b. Find a and b, given that ice melts at 0 degrees Celsius \nand 32 degrees Fahrenheit, and water boils at 100 degrees Celsius \nand 212 degrees Fahrenheit. \n\t\n\t \u0007(Hint: When °C = 0, °F = 32 and when °C = 100, °F = 212. Use this \n­information to find a and b, and thus, the linear relationship \n­between °C and °F.)\n2.6 Visualising linear relationships",
+        "source": "Introduction to Linear Polynomials.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_introduction_to_linear_polynomials_25",
+        "text": "\u0007(Hint: When °C = 0, °F = 32 and when °C = 100, °F = 212. Use this \n­information to find a and b, and thus, the linear relationship \n­between °C and °F.)\n2.6 Visualising linear relationships\nAs we have seen in many examples in this chapter, a linear pattern or \nrelationship can be expressed in the form of an equation y = ax + b. \nNow we shall learn to plot such an equation as a straight line.\nTo plot a linear equation, we need to identify any two points on the \nline. For example, to plot y = 2x + 1, we may identify two points as follows:\nGanita Manjari | Grade 9 | Part I\n28\nWhen x = 0, y = 1, so (0, 1) is a point on the line. We can call this point \nA. We say that the x-coordinate of A is 0 and the y-coordinate is 1. Also, \nwhen x = 3, y = 7. Thus, B (3, 7) is another point on the line. We plot these \npoints on the coordinate plane, join them and extend the line in both \ndirections as shown in Fig. 2.5.\n–1\n–2\nx-axis\n4\n5\n2\n2\n3\n4\n5\n6\n7\n8\n3\n0\n1\n1\ny-axis\nB (3, 7)\nA (0, 1)",
+        "source": "Introduction to Linear Polynomials.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_introduction_to_linear_polynomials_26",
+        "text": "points on the coordinate plane, join them and extend the line in both \ndirections as shown in Fig. 2.5.\n–1\n–2\nx-axis\n4\n5\n2\n2\n3\n4\n5\n6\n7\n8\n3\n0\n1\n1\ny-axis\nB (3, 7)\nA (0, 1)\nFig. 2.5: The straight line y = 2x + 1\nThink and Reflect\n Identify other points on the line by completing the following table.\nx\n1\n2\n5\n7\n9\n12\n20\ny\n3\n15\nNote that (1, 3) and (7, 15) are also the points on the line y = 2x + 1. Plot \nthe points on the line. You may use a graph paper for this task. Observe \nthat if a point lies on a line, its coordinates must satisfy the equation \nof the line. Thus, we can verify that (7, 15) lies on the line y = 2x + 1 by \n­substituting x = 7 and y = 15 in the equation. \nExample 12:  Let us plot the points (–1, –3), (0, 0), (1, 3), (3, 9), (4, 12) in \nthe coordinate plane on a graph paper as shown in Fig. 2.6. Join the points \n(–1, –3) and (4, 12) using a ruler. Doing so, observe that all five points lie \non a straight line. Can you guess the equation of this line by looking at the",
+        "source": "Introduction to Linear Polynomials.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_introduction_to_linear_polynomials_27",
+        "text": "(–1, –3) and (4, 12) using a ruler. Doing so, observe that all five points lie \non a straight line. Can you guess the equation of this line by looking at the \nrelationship between the x and y coordinates of each point? \nIntroduction to Linear Polynomials\n29\n–2\n– 4\nx-axis\n12\n14\n16\n18\n20\n8\n10\n4\n4\n6\n8\n10\n12\n6\n0\n2\n(1, 3)\n(0, 0)\n(–1, –3)\n2\n–2\n–4\n–6\n–8\n–10\n–12\ny-axis\n(4, 12)\n(3, 9)\nFig. 2.6\nFor each point, the value of the y-coordinate is three times that of \nthe x-coordinate. We can therefore say that y = 3x.\nExample 13: Let us plot the points (– 3, 6), (– 2, 4), (0, 0), (1, – 2), (2, – 4), \n(3, – 6) in the coordinate plane on a graph paper as shown in Fig. 2.7. Join \nthe points (– 3, 6) and (3, – 6) using a ruler. Doing so, observe that all five \npoints lie on a straight line. Can you guess the equation of this line by \nlooking at the relationship between the x and y coordinates of each point? \n–2\n–4\n–6\nx-axis\n12\n8\n10\n4\n4\n6\n6\n0\n2\n(1, –2)\n(0, 0)\n(2, –4)\n(3, –6)\n2\n–2\n–4\n–6\n–8\n–10\n–12\ny-axis",
+        "source": "Introduction to Linear Polynomials.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_introduction_to_linear_polynomials_28",
+        "text": "looking at the relationship between the x and y coordinates of each point? \n–2\n–4\n–6\nx-axis\n12\n8\n10\n4\n4\n6\n6\n0\n2\n(1, –2)\n(0, 0)\n(2, –4)\n(3, –6)\n2\n–2\n–4\n–6\n–8\n–10\n–12\ny-axis\n(–3, 6)\n(–2, 4)\nFig. 2.7\nExample 14: Draw the graphs of y = 1\n2 x, y = x, y = 2x by selecting \n­suitable points on these lines. \n(Hint: In order to graph y = 1\n2 x, we could take the points (0, 0) \nand (4, 2). Can you verify that these lie on the line?)\nGanita Manjari | Grade 9 | Part I\n30\nFig. 2.8 shows the graphs of these linear equations without any \npoints labelled.\n–1\n–2\n–3\nx-axis\n6\n4\n5\n2\n2\n3\n3\n0\n1\n1\n–2\n–3\n–4\n–5\n–6\ny-axis\ny = 1\n2x\n–1\n–1\n–2\n–3\nx-axis\n6\n4\n5\n2\n2\n3\n3\n1\n1\n–1\n–2\n–3\n–4\n–5\n–6\ny-axis\ny = x\n0\n–1\n–2\n–3\nx-axis\n6\n4\n5\n2\n2\n3\n3\n1\n1\n–1\n–2\n–3\n–4\n–5\n–6\ny-axis\ny = 2x\n0\nFig. 2.8\nIntroduction to Linear Polynomials\n31\nFig. 2.9 shows all the three graphs on the same axes. Does this help \nyou to conclude anything about the linear equation y = ax, a > 0 as a \nvaries? What happens when a > 1 and when a < 1?",
+        "source": "Introduction to Linear Polynomials.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_introduction_to_linear_polynomials_29",
+        "text": "31\nFig. 2.9 shows all the three graphs on the same axes. Does this help \nyou to conclude anything about the linear equation y = ax, a > 0 as a \nvaries? What happens when a > 1 and when a < 1?\n(Hint: You may also plot the equations y = 3x and y = 1\n3 x on the \nsame axes.)\nFig. 2.9\nFirst of all, we observe that the straight lines representing an \nequation of the form y = ax, always pass through the origin (0, 0). Further, \nwhen a > 1, the line is steeper than the line y = x, which is equally \ninclined to both axes. However, when a < 1, the line is less steep than \nthe line y = x. In fact, a is referred to as the slope of the line y = ax. We \nwill learn more about the concept of the slope of a line in the chapter \non linear ­equations. \nFor now, we focus on another important observation. A linear \ngrowth is represented by a straight line with positive slope while a \nlinear decay is represented by a straight line with negative slope.",
+        "source": "Introduction to Linear Polynomials.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_introduction_to_linear_polynomials_30",
+        "text": "growth is represented by a straight line with positive slope while a \nlinear decay is represented by a straight line with negative slope. \nNote that the number of square tiles in the pattern in Fig. 2.4 leads to \nthe sequence 1, 3, 5, 7, …. in which the difference of consecutive terms \nis the constant 2. The slope of the line representing the linear \nrelationship between the term number and the number of square tiles is \ny = 2x – 1 is 2. Hence, the slope represents the constant difference \nbetween consecutive terms of the sequence.\nExample 15: Now let us draw the graphs of y = –1\n3  x, y = – x, y = – 3x \nby selecting suitable points on these lines. Fig. 2.10 shows the graphs of \nthese linear equations without any points labelled on them.\n–1\n–2\n–3\nx-axis\n6\n4\n5\n2\n2\n3\n3\n1\n1\n–2\n–3\n–4\n–5\n–6\ny-axis\ny = 2x y = x\ny = 1\n2x\n–1\n0\nGanita Manjari | Grade 9 | Part I\n32\n–1\n–2\n–3\n–4\nx-axis\n6\n7\n4\n5\n2\n2\n3\n4\n3\n1\n–2\n–3\n–4\n–5\n–6\n–7\ny-axis\ny =  –1\n3 x\n–1 0\n1\n–1\n–2\n–3\nx-axis\n6\n7\n4\n5\n2\n2\n3\n4\n3\n1\n1\n–2\n–3\n–4",
+        "source": "Introduction to Linear Polynomials.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_introduction_to_linear_polynomials_31",
+        "text": "y = 2x y = x\ny = 1\n2x\n–1\n0\nGanita Manjari | Grade 9 | Part I\n32\n–1\n–2\n–3\n–4\nx-axis\n6\n7\n4\n5\n2\n2\n3\n4\n3\n1\n–2\n–3\n–4\n–5\n–6\n–7\ny-axis\ny =  –1\n3 x\n–1 0\n1\n–1\n–2\n–3\nx-axis\n6\n7\n4\n5\n2\n2\n3\n4\n3\n1\n1\n–2\n–3\n–4\n–5\n–6\n–7\ny-axis\ny = –x\n–1\n0\n–1\n–2\n–3\nx-axis\n6\n7\n4\n5\n2\n2\n3\n4\n3\n1\n1\n–2\n–3\n–4\n–5\n–6\n–7\ny-axis\ny = –3x\n–1 0\nFig. 2.10\nIntroduction to Linear Polynomials\n33\nFig. 2.11 shows all the three graphs on the same axes. Does this help \nyou to conclude anything about the linear equation y = – ax, a > 0, as a \nvaries? What will happen when a > 1 and when a < 1?\n–1\n–2\n–3\n–4\nx-axis\n6\n7\n4\n5\n2\n2\n3\n4\n3\n–2\n–3\n–4\n–5\n–6\n–7\ny-axis\ny =  –1\n 3 x\ny = –x\ny = –3x\n–1 0\n1\n1\nFig. 2.11\nThink and Reflect\nDifferentiate between the graphs of the equations y = 3x + 1, and y = –3x + 1.\nExample 16: Let us now draw the graphs of y = 2x – 1, y = 2x + 1, \ny = 2x + 5, first individually (as shown in Fig. 2.12) and then on the same \naxes (as shown in Fig. 2.13).\nFig. 2.12 A\n–1\n6\n7\n4\n5\n2\n2\n3\n5\n4\n3\n1\n1\n–2\n–3\n–4\n–5\n–6\ny-axis\nx-axis\ny = 2x–1",
+        "source": "Introduction to Linear Polynomials.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_introduction_to_linear_polynomials_32",
+        "text": "y = 2x + 5, first individually (as shown in Fig. 2.12) and then on the same \naxes (as shown in Fig. 2.13).\nFig. 2.12 A\n–1\n6\n7\n4\n5\n2\n2\n3\n5\n4\n3\n1\n1\n–2\n–3\n–4\n–5\n–6\ny-axis\nx-axis\ny = 2x–1\n–1 0\n–2\nGanita Manjari | Grade 9 | Part I\n34\n–1\n–2\n6\n7\n4\n5\n2\n2\n3\n5\n4\n3\n1\n1\n–2\n–3\n–4\n–5\n–6\ny-axis\nx-axis\ny = 2x+1\n–1 0\nFig. 2.12 B\n–1\n–2\n6\n7\n4\n5\n2\n2\n3\n5\n4\n3\n1\n1\n–2\n–3\n–4\n–5\n–6\ny-axis\nx-axis\ny = 2x+5\n–1\n0\nFig. 2.12 C\n–1\n–2\n6\n7\n4\n5\n2\n2\n3\n5\n4\n3\n1\n1\n–2\n–3\n–4\n–5\n–6\ny-axis\nx-axis\ny = 2x+5\ny = 2x+1\ny = 2x–1\n–1\n0\nFig. 2.13\nIntroduction to Linear Polynomials\n35\nThink and Reflect\nDoes this help you to conclude anything about the linear equation \ny = ax + b when a is fixed but b varies?\n(Hint: In these equations a = 2, and b takes the values –1, 1 and 5, \n­respectively.)\nNow let us draw the graphs of the equations y = x + 3, y = 2x + 5 and \ny = 3x – 2. See Fig. 2.14 and observe where these lines cut the y-axis.\n–1\n–2\n6\n4\n5\n2\n2\n3\n5\n6\n7\n3\n1\n1\n–2\n–3\ny-axis\nx-axis\ny = 3x – 2\ny = 2x + 5\nC\nB\nA\ny = x + 3\n–1\n0\n4\nFig. 2.14",
+        "source": "Introduction to Linear Polynomials.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_introduction_to_linear_polynomials_33",
+        "text": "y = 3x – 2. See Fig. 2.14 and observe where these lines cut the y-axis.\n–1\n–2\n6\n4\n5\n2\n2\n3\n5\n6\n7\n3\n1\n1\n–2\n–3\ny-axis\nx-axis\ny = 3x – 2\ny = 2x + 5\nC\nB\nA\ny = x + 3\n–1\n0\n4\nFig. 2.14\nWe see that,\ny = 2x + 5 cuts the y-axis at A (0, 5),\ny = x + 3 cuts the y-axis at B (0, 3), and\ny = 3x – 2 cuts the y-axis at C (0, –2).\nWe observe that any straight line written in the form y = ax + b cuts \nthe y-axis at the point (0, b). The length b is referred to as the y-intercept \nof the line. Thus, the y-intercept of the line y = x + 3 is 3. This means that \nthe line cuts the y-axis at a distance of 3 units from the origin in the \npositive direction. Similarly, the y-intercept of the line y = 3x – 2 is – 2. \nGanita Manjari | Grade 9 | Part I\n36\nThis means that the line cuts the y-axis at a distance of 2 units from the \norigin in the negative direction.\nAfter observing the graphs in Figures 2.8 to 2.14, we may conclude \nthe following:\n\t\n(i)\t\n\u0007In the equation y = ax + b, a represents the slope of the line",
+        "source": "Introduction to Linear Polynomials.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_introduction_to_linear_polynomials_34",
+        "text": "origin in the negative direction.\nAfter observing the graphs in Figures 2.8 to 2.14, we may conclude \nthe following:\n\t\n(i)\t\n\u0007In the equation y = ax + b, a represents the slope of the line \nand b represents the y-intercept.\n\t\n(ii)\t\n\u0007If we change the values of a, keeping b fixed, the slope of the \nline changes while the y-intercept remains fixed.\n\t\n(iii)\t\n\u0007If we change the values of b keeping the value of a fixed, the \nlines shift but remain parallel to the original line. Thus, lines \nwith equal slopes but different y-intercepts are parallel to \neach other.  \nExercise Set 2.6\n\t 1.\t \u0007Draw the graphs of the following sets of lines. In each case, reflect \non the role of ‘a’ and ‘b’.\n\t\n(i)\t\ny = 4x, y = 2x, y = x\n\t\n(ii)\t\ny = – 6x, y = – 3x, y = – x\n\t\n(iii)\t\ny = 5x, y = –5x\n\t\n(iv)\t\ny = 3x – 1, y = 3x, y = 3x  + 1\n\t\n(v)\t\ny = –2x – 3, y = –2x, y = 2x + 3\nEnd-of-Chapter Exercises\n\t\n1.\t \u0007Write a polynomial of degree 3 in the variable x, in which the \ncoefficient of the x2 term is –7.",
+        "source": "Introduction to Linear Polynomials.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_introduction_to_linear_polynomials_35",
+        "text": "(v)\t\ny = –2x – 3, y = –2x, y = 2x + 3\nEnd-of-Chapter Exercises\n\t\n1.\t \u0007Write a polynomial of degree 3 in the variable x, in which the \ncoefficient of the x2 term is –7.\n\t\n2.\t \u0007Find the values of the following polynomials at the indicated \nvalues of the variables.\n\t\n(i)\t\n5x2 – 3x + 7 if x = 1 \n\t\n(ii)\t\n4t3 – t2 + 6 if t = a\nIntroduction to Linear Polynomials\n37\n\t\n3.\t \u0007If we multiply a number by 5\n2 and add 2\n3 to the product, we get \n –7\n12. Find the number.\n\t\n4.\t \u0007A positive number is 5 times another number. If 21 is added to \nboth the numbers, then one of the new numbers becomes twice \nthe other new number. What are the numbers?  \n\t\n5.\t \u0007If you have `800 and you save `250 every month, find the \namount you have after (i) 6 months (ii) 2 years. Express this as \na linear pattern.\n\t *6.\t \u0007The digits of a two-digit number differ by 3. If the digits are \ninterchanged, and the resulting number is added to the original \nnumber, we get 143. Find both the numbers.",
+        "source": "Introduction to Linear Polynomials.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_introduction_to_linear_polynomials_36",
+        "text": "a linear pattern.\n\t *6.\t \u0007The digits of a two-digit number differ by 3. If the digits are \ninterchanged, and the resulting number is added to the original \nnumber, we get 143. Find both the numbers.\n\t *7.\t \u0007Draw the graph of the following equations, and identify their \nslopes and y-intercepts. Also, find the coordinates of the points \nwhere these lines cut the y-axis.\n\t\n(i)\t y = –3x + 4\n\t\n(ii)\t 2y = 4x + 7\n\t\n(iii)\t 5y = 6x – 10\n\t\n(iv)\t 3y = 6x – 11\n\t\n\t Are any of the lines parallel?\n\t *8.\t \u0007If the temperature of a liquid can be measured in Kelvin units as \nx K and in Fahrenheit units as y °F, the relation between the two \nsystems of measurement of temperature is given by the linear \nequation y = 9\n5 (x – 273) + 32.\n\t\n(i)\t \u0007Find the temperature of the liquid in Fahrenheit if the \ntemperature of the liquid is 313 K.\n\t\n(ii)\t \u0007If the temperature is 158 °F, then find the temperature in \n Kelvin.\n\t *9.\t \u0007The work done by a body on the application of a constant force",
+        "source": "Introduction to Linear Polynomials.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_introduction_to_linear_polynomials_37",
+        "text": "temperature of the liquid is 313 K.\n\t\n(ii)\t \u0007If the temperature is 158 °F, then find the temperature in \n Kelvin.\n\t *9.\t \u0007The work done by a body on the application of a constant force \nis the product of the constant force and the distance travelled by \nthe body in the direction of the force. Express this in the form of \na linear equation in two variables (work w and distance d), and \ndraw its graph by taking the constant force as 3 units. What is \nGanita Manjari | Grade 9 | Part I\n38\nthe work done when the distance travelled is 2 units? Verify it by \nplotting it on the graph.\n\t*10.\t The graph of a linear polynomial p(x) passes through the points \n(1, 5) and (3, 11).\n\t\n(i)\t Find the polynomial p(x).\n\t\n(ii)\t Find the coordinates where the graph of p(x) cuts the axes.\n\t\n(iii)\t Draw the graph of p(x) and verify your answers.\n\t*11.\t Let p(x) = ax + b and q(x) = cx + d be two linear polynomials \nsuch that:\n\t\n(i)\t p(0) = 5.\n\t\n(ii)\t The polynomial p(x) – q(x) cuts the x-axis at (3, 0).",
+        "source": "Introduction to Linear Polynomials.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_introduction_to_linear_polynomials_38",
+        "text": "*11.\t Let p(x) = ax + b and q(x) = cx + d be two linear polynomials \nsuch that:\n\t\n(i)\t p(0) = 5.\n\t\n(ii)\t The polynomial p(x) – q(x) cuts the x-axis at (3, 0).\n\t\n(iii)\t The sum p(x) + q(x) is equal to 6x + 4 for all real x.\n\t\n\t Find the polynomials p(x) and q(x).\n\t*12.\t Look at the first three stages of a growing pattern of hexagons \nmade using matchsticks. A new hexagon gets added at every \nstage which shares a side with the last hexagon of the previous \nstage.\n\t\n\t\n\t\nStage 1\t\nStage 2\t\nStage 3\n\t\n(i)\t Draw the next two stages of the pattern. How many \nmatchsticks will be required at these stages?\n\t\n(ii)\t Complete the following table.\nStage \nNumber\n1\n2\n3\n4\n5\n…\nn\nNumber of \nmatchsticks\n\t\n(iii)\t Find a rule to determine the number of matchsticks required \nfor the nth stage.\nIntroduction to Linear Polynomials\n39\n\t\n(iv)\t How many matchsticks will be required for the 15th stage of \nthe pattern?\n\t\n(v)\t Can 200 matchsticks form a stage in this pattern? Justify \nyour answer.",
+        "source": "Introduction to Linear Polynomials.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_introduction_to_linear_polynomials_39",
+        "text": "Introduction to Linear Polynomials\n39\n\t\n(iv)\t How many matchsticks will be required for the 15th stage of \nthe pattern?\n\t\n(v)\t Can 200 matchsticks form a stage in this pattern? Justify \nyour answer.\n\t*13.\t Let p(x) = ax + b and q(x) = cx + d be two linear polynomials \nsuch that: \n\t\n(i)\t The graph of p(x) passes through the points (2, 3) and (6, 11).\n\t\n(ii)\t The graph of q(x) passes through the point (4, –1).\n\t\n(iii)\t The graph of q(x) is parallel to the graph of p(x).\n\t\n\t Find the polynomials p(x) and q(x). Also, find the coordinates of \nthe point where these lines meet the x-axis.\n\t*14.\t What do all linear functions of the form f(x) = ax + a, a > 0, have \nin common?\nChapter summary\n\t\nz An algebraic expression combines numbers, variables, and \n­operation symbols. For example, 2x2 + 5xy – 3y2 is an algebraic \n­expression in the variables x and y. 2x2, 5xy and – 3y2 are the \nterms of the algebraic expression, and the numbers 2, 5 and – 3 \nare coefficients of the terms.",
+        "source": "Introduction to Linear Polynomials.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_introduction_to_linear_polynomials_40",
+        "text": "­expression in the variables x and y. 2x2, 5xy and – 3y2 are the \nterms of the algebraic expression, and the numbers 2, 5 and – 3 \nare coefficients of the terms. \n\t\nz Univariate Polynomials are algebraic expressions in one \n­variable. Thus x2 + 5x + 3 and 3y3 – 4y2 + 5 are univariate \npolynomials in x and y, respectively. The highest power of the \nvariable in a univariate polynomial is called its degree. Thus, \nx2 + 5x + 3 is ­of degree 2 while 3y3 – 4y2 + 5 is of degree 3.\n\t\nz A polynomial of degree one is called a linear polynomial. Hence, \n2x + 3 and 5 – 4y are linear polynomials in the variables x and y, \nrespectively.\n\t\nz Linear growth refers to a pattern in which a quantity increases \nby a fixed amount over equal intervals. In contrast, linear ­decay \ndescribes a pattern in which a quantity decreases by a fixed \namount over equal intervals.\nGanita Manjari | Grade 9 | Part I\n40\n\t\nz A linear pattern is a sequence of numbers where the ­difference",
+        "source": "Introduction to Linear Polynomials.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_introduction_to_linear_polynomials_41",
+        "text": "describes a pattern in which a quantity decreases by a fixed \namount over equal intervals.\nGanita Manjari | Grade 9 | Part I\n40\n\t\nz A linear pattern is a sequence of numbers where the ­difference \nbetween consecutive terms is constant. \n\t\nz \u0007A linear relationship between two variables x and y is \n­represented by a straight line y = ax + b. The slope of this line is \na. The ­constant b is called the y-intercept which is the distance \nfrom the origin where the line cuts the y-axis. When b = 0, the \nequation of the line becomes y = ax and the line passes through \nthe origin.\n\t\nz \u0007Linear growth is represented by a straight line with positive \nslope and linear decay is represented by a straight line with \n­negative slope. \n\t\nz \u0007Parallel lines are of the form y = ax + b, where the slope a is fixed \nwhile b, the y-intercept, varies.",
+        "source": "Introduction to Linear Polynomials.pdf",
+        "class": 9,
+        "subject": "Maths"
+    }
+]

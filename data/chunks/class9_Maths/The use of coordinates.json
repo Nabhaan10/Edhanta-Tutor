@@ -1,0 +1,184 @@
+[
+    {
+        "id": "class9_maths_the_use_of_coordinates_1",
+        "text": "Orienting Yourself: The Use of \nCoordinates\n1.1 Introduction\nA system of coordinates is a structured framework (like the grid lines on \na map or graph paper) that enables us to use numbers to describe the \nexact physical locations of points or objects. \nThe idea of ‘grid-based thinking’ and the geometry required to \ndefine the locations of points in space—indeed has deep roots in \nBhārat. The first systematic use of grids occurred thousands of years \nago — on a massive urban scale—in the Sindhu-Sarasvatī Civilisation, \nwhere city streets were constructed with striking precision in \nNorth–South and East–West directions at uniform distances of about \n10 metres apart. This was a coordinate system in practice: a merchant \ncould find a shop or a warehouse by counting North–South and \nEast–West units of distance from the city centre. Baudhāyana (c. 800 \nC.E.), as we have seen, later used East–West and North–South lines for his",
+        "source": "The use of coordinates.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_the_use_of_coordinates_2",
+        "text": "East–West units of distance from the city centre. Baudhāyana (c. 800 \nC.E.), as we have seen, later used East–West and North–South lines for his \ndeep geometric constructions, developing the Baudhāyana–Pythagoras \nTheorem and thus laying the foundation of coordinate geometry.\nPutting coordinates on the Earth’s surface later became important \nfor navigation. Ujjayinī was described in the ancient world—at least \nas early as the 4th century BCE in the early Siddhāntas—as the point \nmarking the central longitude meridian from which all other locations \nwere measured. The Greek mathematician Ptolemy (c. 150 BCE), \nbuilding on earlier works including that of Hipparchus, later described \nthe latitudes and longitudes of thousands of locations, including ‘Ozine’ \n(Ujjayinī). Āryabhaṭa (c. 499 CE) replaced the Greek ‘chords’ with ‘sines’, \nmaking it much easier to calculate the coordinates of a star or a city. \nHe mapped the sky using Celestial Coordinates, measuring coordinate",
+        "source": "The use of coordinates.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_the_use_of_coordinates_3",
+        "text": "making it much easier to calculate the coordinates of a star or a city. \nHe mapped the sky using Celestial Coordinates, measuring coordinate \ndistances from the ecliptic (the path of the sun).\nBrahmagupta (c. 628 CE) formalised the notion and use of zero \nand the negative numbers as algebraic entities; in modern coordinate \nsystems, the ‘origin’ is zero and the ‘negative axes’ represent values less \nthan zero. Without Brahmagupta’s work, the four-quadrant Cartesian \nplane, as we will study in this chapter, would be impossible. \n1\n2\nGanita Manjari | Grade 9 | Part I\nBrahmagupta’s work was translated into Arabic (as the Sindhind), \nand the Ujjayinī meridian entered Arabic geography under the name \n‘Arin,’ serving as the zero-longitude reference for early Arabic maps \nwhich also then made use of negative numbers. The influential Arab \nscholar Al-Bīrūnī (c. 1000 CE) travelled to India, studied the Siddhāntas, \nand used Indian trigonometric methods to calculate the coordinates of",
+        "source": "The use of coordinates.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_the_use_of_coordinates_4",
+        "text": "scholar Al-Bīrūnī (c. 1000 CE) travelled to India, studied the Siddhāntas, \nand used Indian trigonometric methods to calculate the coordinates of \nvarious cities across Asia. Al-Bīrūnī also later perfected the ‘astrolabe’, \na handheld device that allowed sailors to find their coordinates by \nlooking at the stars. Ömar Khayyām (c. 1100 CE), who had become an \nexpert in the Indian decimal system and algebraic formalism, was the \nfirst mathematician to solve algebraic problems using geometry by \ninterpreting them in terms of coordinates in the plane. \nThese concepts eventually reached Europe in the 12th century. The \nfinal leap occurred when following the related work of Fermat (1636 \nCE), René Descartes (1637 CE) formalised the fact that any point in a \ntwo-dimensional plane could be defined by simply two numbers—\nrepresenting the point’s distances from two perpendicular axes.  Points \nand more complex geometric shapes could then be described precisely",
+        "source": "The use of coordinates.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_the_use_of_coordinates_5",
+        "text": "representing the point’s distances from two perpendicular axes.  Points \nand more complex geometric shapes could then be described precisely \nusing algebra and equations, thus bringing the areas of geometry and \nalgebra even closer together.\nIn Grades 9 and 10, you will have a chance to study this amazing \ncoordinate system which has such a rich history in human thought and \nendeavour.  You will be able to locate objects with pinpoint accuracy. \nYou will also see how using coordinates enables us to visualise algebraic \nequations as geometric shapes, and vice versa.  \nWe begin our study of coordinates with a story that will help you \nunderstand these new terms better.\n1.2 Settling In\nIt is the beginning of the academic year and Reiaan is both excited and \nnervous. The family has just moved to a new city. He and his sister, \nShalini, will be attending a new school. Today, Shalini will help him \nsettle into the new environment. When someone is not able to see, this",
+        "source": "The use of coordinates.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_the_use_of_coordinates_6",
+        "text": "Shalini, will be attending a new school. Today, Shalini will help him \nsettle into the new environment. When someone is not able to see, this \ncan be a very big challenge, but with their mother’s transferable job, the \nsiblings have done it often, and it has become easier with each move. \nShalini has just completed Grade 9 and this time, she decided to put \nto use what she has learnt in Coordinate Geometry in Mathematics to \nguide Reiaan.\nShalini wanted Reiaan to feel the directions, so she used a \nrectangular grid on which she had fixed pins and threads. This showed \n3\nOrienting Yourself: The Use of Coordinates\nthe floor of the room. Points in the sketch were marked using pins. \nShalini was using a scale of 1 cm : 1 foot. She used pins to mark out \nvarious key points of the room. Points representing the corners of \nobjects were connected with thick wool so that Reiaan could feel their \npositions with his fingers.\nFig. 1.1: Sketch of Reiaan’s room",
+        "source": "The use of coordinates.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_the_use_of_coordinates_7",
+        "text": "objects were connected with thick wool so that Reiaan could feel their \npositions with his fingers.\nFig. 1.1: Sketch of Reiaan’s room\nLet us examine Fig. 1.1 to understand the layout of the room. Notice \nthat this only shows the map of the floor. Do you see why the position of \nthe windows cannot be marked on this map?\n1.3 The 2-d Cartesian Coordinate System\nIn the chapters on integers, rational numbers, and decimals in earlier \ngrades, you studied the number line which is one-dimensional. The \ntwo-dimensional coordinate system uses two lines at right angles \nto each other to mark points in two-dimensional space (short form: \n2-D space). For convenience, we consider one of the lines to be horizontal; \nit is called the x-axis. The other line is vertical; it is called the y-axis. The \npoint of intersection of the x-axis and y-axis is called the origin O; its \ncoordinates are (0, 0). Coordinate axes (this is the plural of ‘axis’) help us",
+        "source": "The use of coordinates.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_the_use_of_coordinates_8",
+        "text": "point of intersection of the x-axis and y-axis is called the origin O; its \ncoordinates are (0, 0). Coordinate axes (this is the plural of ‘axis’) help us \nto locate any point in 2-D space using the point’s ‘coordinates’. Distances \nfrom O are marked off in equal units, on both the axes. Distances to the \nright of O or upwards from O are considered positive, and distances to \nthe left of O or downwards from O are considered negative (Fig. 1.2).\n4\nGanita Manjari | Grade 9 | Part I\n–1\n–2\n–3\n–4\n–5\nx-axis\n6\n7\n4\n5\n2\n2\n3\n4\n5\n3\n0\n1\nG = (0, – 4.5)\n1\n–1\n–2\n–3\n–4\n–5\n–6\n–7\ny-axis\nH = (0, 4)\nB = (4.5, 0)\nO = (0, 0)\nE = (–2.9, 0)\nFig. 1.2: Structure of the coordinate plane\nPoint B is on the x-axis and 4.5 units to the right of O, its coordinates \nare (4.5, 0). This fact is written as B = (4.5, 0). Point G is on the y-axis and \n4.5 units downward from O, its coordinates are (0, – 4.5), that is, \nG = (0, – 4.5). Point H is also on the y-axis but 4 units above O, its",
+        "source": "The use of coordinates.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_the_use_of_coordinates_9",
+        "text": "4.5 units downward from O, its coordinates are (0, – 4.5), that is, \nG = (0, – 4.5). Point H is also on the y-axis but 4 units above O, its \n­coordinates are (0, 4), that is, H = (0, 4). \nA point P = (x, 0) lies on the x-axis. If x is positive, then P lies to the \nright of O. If x is negative, P lies to the left of O. A point P = (0, y) lies on \nthe y-axis. If y is positive, P lies above O; if y is negative, P lies below O.\nWhile writing the coordinates of a point, it is often convenient to \ndrop the ‘=’ sign and write P = (x, y) simply as P (x, y). This is especially \ntrue while marking points on a graph.\nExercise Set 1.1\nFig. 1.3 shows Reiaan’s room with points OABC marking its corners. The \nx- and y-axes are marked in the figure. Point O is the origin. \n5\nOrienting Yourself: The Use of Coordinates\nFig. 1.3\nReferring to Fig. 1.3, answer the following questions:\n\t (i)\t \u0007If D1R1 represents the door to Reiaan’s room, how far is the door",
+        "source": "The use of coordinates.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_the_use_of_coordinates_10",
+        "text": "5\nOrienting Yourself: The Use of Coordinates\nFig. 1.3\nReferring to Fig. 1.3, answer the following questions:\n\t (i)\t \u0007If D1R1 represents the door to Reiaan’s room, how far is the door \nfrom the left wall (the y-axis) of the room? How far is the door \nfrom the x-axis?\n\t(ii)\t What are the coordinates of D1?\n\t(iii)\t \u0007If R1 is the point (11.5, 0), how wide is the door? Do you think this is \na comfortable width for the room door? If a person in a wheelchair \nwants to enter the room, will he/she be able to do so easily?\n\t(iv)\t \u0007If B1 (0, 1.5) and B2 (0, 4) represent the ends of the bathroom door, \nis the bathroom door narrower or wider than the room door?\nThink and Reflect\n1.\t What are the standard widths for a room door? Look around your \nhome and in school. \n2.\t Are the doors in your school suitable for people in wheelchairs?\n6\nGanita Manjari | Grade 9 | Part I\nSo far, we have only considered points on the two coordinate \naxes. What can you say about the coordinates of points that are not",
+        "source": "The use of coordinates.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_the_use_of_coordinates_11",
+        "text": "6\nGanita Manjari | Grade 9 | Part I\nSo far, we have only considered points on the two coordinate \naxes. What can you say about the coordinates of points that are not \non  either axes? The plane in which the axes are situated is called the \n­Cartesian plane, the coordinate plane or the xy-plane. The axes \ndivide the plane into four parts, called quadrants. They are numbered \nas shown in Fig. 1.4.\nUsing the conventions that we have stated earlier:\n\t (i)\t Points in Quadrant I have both x- and y-coordinates positive.\n\t(ii)\t \u0007Points in Quadrant II have negative x-coordinate and positive \ny-coordinate.\n\t(iii)\t \u0007Points in Quadrant III have both x- and y-coordinates negative.\n\t(iv)\t \u0007Points in Quadrant IV have positive x-coordinate and negative \ny-coordinate.\nCan you now see the meaning of the coordinates of a point in \n2-D space? In general, the coordinates of a point P in 2-D space are \nrepresented by (x, y). Here, x represents the perpendicular distance of",
+        "source": "The use of coordinates.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_the_use_of_coordinates_12",
+        "text": "2-D space? In general, the coordinates of a point P in 2-D space are \nrepresented by (x, y). Here, x represents the perpendicular distance of \nP from the  y-axis, measured along the x-axis, and y is the perpendicular \ndistance of P from the x-axis, measured along the y-axis. x is the \nx-coordinate and y is the y-coordinate of the point (x, y).\n–1\n–2\n–3\n–4\n–5\nx-axis\n6\n7\n4\n5\n2\n2\n3\n4\n3\n0\n1\nS (3, –5)\n1\n–1\n–2\n–3\n–4\n–5\n–6\n–7\n–8\ny-axis\nQuadrant II\nQuadrant I\nQuadrant III\nQuadrant IV\nQ (–5, 3)\nO (0, 0)\nFig. 1.4\n7\nOrienting Yourself: The Use of Coordinates\nFor example, in Fig. 1.4, point S (3, – 5) is in Quadrant IV, the \nx-coordinate is 3 units and the y-coordinate is – 5 units. What about \npoint Q (– 5, 3)? It is in the second quadrant, with x-coordinate – 5 and \ny-coordinate 3. Copy Fig. 1.4 and mark S and Q in your diagram. Mark \nany point P in Quadrant I and any point R in Quadrant III, and write \ndown their coordinates.\nThink and Reflect",
+        "source": "The use of coordinates.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_the_use_of_coordinates_13",
+        "text": "y-coordinate 3. Copy Fig. 1.4 and mark S and Q in your diagram. Mark \nany point P in Quadrant I and any point R in Quadrant III, and write \ndown their coordinates.\nThink and Reflect\n1.\t What is the x-coordinate of a point on the y-axis? \n2.\t Is there a similar generalisation for a point on the x-axis? \n3.\t Does point Q (y, x) ever coincide with point P (x, y)? Justify your \nanswer.\n4.\t If x ≠ y, then (x, y) ≠ (y, x); and (x, y) = (y, x) if and only if x = y. Is this \nclaim true? \nExercise Set 1.2\nOn a graph sheet, mark the x-axis and y-axis and the origin O. Mark \npoints from (– 7, 0) to (13, 0) on the x-axis and from (0, – 15) to (0, 12) on \nthe y-axis. (Use the scale 1 cm = 1 unit.) Using Fig. 1.5, answer the given \nquestions.\nFig. 1.5\n8\nGanita Manjari | Grade 9 | Part I\n\t 1.\t \u0007Place Reiaan’s rectangular study table with three of its feet at the \npoints (8, 9), (11, 9) and (11, 7). \n\t\n(i)\t\nWhere will the fourth foot of the table be? \n\t\n(ii)\t\nIs this a good spot for the table?",
+        "source": "The use of coordinates.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_the_use_of_coordinates_14",
+        "text": "points (8, 9), (11, 9) and (11, 7). \n\t\n(i)\t\nWhere will the fourth foot of the table be? \n\t\n(ii)\t\nIs this a good spot for the table? \n\t\n(iii)\t\n\u0007What is the width of the table? The length? Can you make out \nthe height of the table? \n\t 2.\t \u0007If the bathroom door has a hinge at B1 and opens into the bedroom, \nwill it hit the wardrobe? Are there any changes you would suggest \nif the door is made wider? \n\t 3.\t Look at Reiaan’s bathroom.\n\t\n(i)\t\n\u0007What are the coordinates of the four corners O, F, R, and P of \nthe bathroom?\n\t\n(ii)\t\n\u0007What is the shape of the showering area SHWR in Reiaan’s \nbathroom? Write the coordinates of the four corners. \n\t\n(iii)\t\n\u0007Mark off a 3 ft × 2 ft space for the washbasin and a 2 ft × 3 ft \nspace for the toilet. Write the coordinates of the corners of \nthese spaces.\n\t 4.\t Other rooms in the house:\n\t\n(i)\t\n\u0007Reiaan’s room door leads from the dining room which has \nthe length 18 ft and width 15 ft. The length of the dining room",
+        "source": "The use of coordinates.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_the_use_of_coordinates_15",
+        "text": "these spaces.\n\t 4.\t Other rooms in the house:\n\t\n(i)\t\n\u0007Reiaan’s room door leads from the dining room which has \nthe length 18 ft and width 15 ft. The length of the dining room \nextends from point P to point A. Sketch the dining room and \nmark the coordinates of its corners. \n\t\n(ii)\t\n\u0007Place a rectangular 5 ft × 3 ft dining table precisely in the \ncentre of the dining room. Write down the coordinates of the \nfeet of the table.\n1.4 Distance Between Two Points in the 2-D Plane\nWe know how to find the distance between two points if they are on the \naxes or if they form a line segment parallel to the axes. For example, in \nFig. 1.5 we can find the distances W1W2 and S1S2. What should we do if \nthe segment joining the points is not parallel to either axis? We can use \nthe Baudhāyana–Pythagoras theorem which you have studied in Grade 8. \nWe can use this result to find the distance between any two points in the \nxy-plane.\n9\nOrienting Yourself: The Use of Coordinates",
+        "source": "The use of coordinates.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_the_use_of_coordinates_16",
+        "text": "the Baudhāyana–Pythagoras theorem which you have studied in Grade 8. \nWe can use this result to find the distance between any two points in the \nxy-plane.\n9\nOrienting Yourself: The Use of Coordinates\nLook at triangle ADM in Fig. 1.6.\nx-axis\n6\n7\n8\n9\n10\n4\n5\n2\n2\n3\n4\n5\n6\n3\n0\n1\nA (3, 4)\n1\n–1\ny-axis\nM (9, 6)\nD (7, 1)\nFig. 1.6\nTriangle ADM is an acute angled triangle in the first quadrant. How \ndo we find the lengths of its sides AD, DM and MA? \nThink and Reflect\n1.\t In moving from A (3, 4) to D (7, 1), what distance has been covered \nalong the x-axis? What about the distance along the y-axis? \n2.\t Can these distances help you find the distance AD?\nFig. 1.7 gives us a clue. The distance moved along the x-axis is given by CD.\nCD = x-coordinate of D – x-coordinate of A = 7 – 3 = 4.\nThe distance moved along the y-axis is given by AC.\nAC = y-coordinate of A – y-coordinate of D = 4 – 1 = 3.\nUsing the Baudhāyana–Pythagoras Theorem, we get the distance \nAD = \n4\n3\n2\n2\n+\n = 5 units.\n10",
+        "source": "The use of coordinates.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_the_use_of_coordinates_17",
+        "text": "AC = y-coordinate of A – y-coordinate of D = 4 – 1 = 3.\nUsing the Baudhāyana–Pythagoras Theorem, we get the distance \nAD = \n4\n3\n2\n2\n+\n = 5 units.\n10\nGanita Manjari | Grade 9 | Part I\nD (7, 1)\nC\nA (3, 4)\nM (9, 6)\n9\n10\n6\n7\n8\n5\n4\n2\n3\n1\n–1\n0\n2\n3\n4\n5\n6\n1\nx-axis\ny-axis\nFig. 1.7\nWe similarly find the distances DM and MA:\nDM\nunits\n=\n+\n=\n2\n5\n29\n2\n2\n.\nMA\n units\n=\n+\n=\n6\n2\n40\n2\n2\n.\nIn general, the distance between the points (x1, y1) and (x2, y2) is given by \n(\n)\n(\n)\nx\nx\ny\ny\n2\n1\n2\n2\n1\n2\n−\n+\n−\nand is calculated as shown in Fig. 1.8.\ny2 – y1\nD (x2, y2)\nx2 – x1\nF (x1, y2)\nA (x1, y1)\n(\n)\n(\n)\nx\nx\ny\ny\n2\n1\n2\n2\n1\n2\n−\n+\n−\nFig. 1.8\n11\nOrienting Yourself: The Use of Coordinates\nIt makes no difference whether (x2 – x1) and (y2 – y1) are positive or \nnegative, as we are simply measuring the shifts along the two axes.\nWhat if, x1,  x2,  y1,  y2 take negative values? In Fig. 1.9, triangle AMD is \nreflected in the y-axis. What are the coordinates of the images of points \nA, M, and D? \nx-axis\n6\n7\n8\n9\n4\n5\n2\n2\n3\n4",
+        "source": "The use of coordinates.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_the_use_of_coordinates_18",
+        "text": "What if, x1,  x2,  y1,  y2 take negative values? In Fig. 1.9, triangle AMD is \nreflected in the y-axis. What are the coordinates of the images of points \nA, M, and D? \nx-axis\n6\n7\n8\n9\n4\n5\n2\n2\n3\n4\n5\n6\n3\n0\n1\n1\n–1\n–2\n–3\n–4\n–5\n–6\n–7\n–8\n–9\ny-axis\nM' (–9, 6)\nA' (–3, 4)\nA (3, 4)\nC' (–3, 1)\nD' (–7, 1)\nC (3, 1)\nD (7, 1)\nM (9, 6)\nFig. 1.9\nC'D' = x-coordinate of A' – x-coordinate of D' = –3 – (–7) = 4.\nA'C' = y-coordinate of A' – y-coordinate of D' = 4 – 1 = 3.\nUsing the Baudhāyana–Pythagoras Theorem, we get AD = 4\n3\n5\n2\n2\n+\n=\n \nunits. \nYou can similarly calculate both D'M' and M'A':\nD'M'\n units\n=\n−\n+\n=\n(\n)\n2\n5\n29\n2\n2\nM'A'\n units\n=\n−\n+\n=\n(\n)\n6\n2\n40\n2\n2\n.\nWe see that reflection has preserved the lengths of the sides of the \ntriangles.\nThink and Reflect\n1.\t What has remained the same and what has changed with this \n­reflection? \n2.\t Would these observations be the same if ΔADM is reflected in the \nx-axis (instead of the y-axis)?\n12\nGanita Manjari | Grade 9 | Part I\nEnd-of-Chapter Exercises",
+        "source": "The use of coordinates.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_the_use_of_coordinates_19",
+        "text": "­reflection? \n2.\t Would these observations be the same if ΔADM is reflected in the \nx-axis (instead of the y-axis)?\n12\nGanita Manjari | Grade 9 | Part I\nEnd-of-Chapter Exercises\n\t\n1.\t \u0007What are the x-coordinate and y-coordinate of the point of \n intersection of the two axes?\n\t\n2.\t \u0007Point W has x-coordinate equal to – 5. Can you predict the \ncoordinates of point H which is on the line through W parallel to \nthe y-axis? Which quadrants can H lie in? \n\t\n3.\t \u0007Consider the points R (3, 0), A (0, – 2), M (– 5, – 2) and P (– 5, 2). If \nthey are joined in the same order, predict:\n\t\n(i)\t Two sides of RAMP that are perpendicular to each other.\n\t\n(ii)\t One side of RAMP that is parallel to one of the axes.\n\t\n(iii)\t \u0007Two points that are mirror images of each other in one axis. \nWhich axis will this be?\n\t\n\t \t\nNow plot the points and verify your predictions.\n\t\n4.\t Plot point Z (5, – 6) on the Cartesian plane. Construct a right-angled \ntriangle IZN and find the lengths of the three sides.",
+        "source": "The use of coordinates.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_the_use_of_coordinates_20",
+        "text": "Now plot the points and verify your predictions.\n\t\n4.\t Plot point Z (5, – 6) on the Cartesian plane. Construct a right-angled \ntriangle IZN and find the lengths of the three sides. \n\t\n\t (Comment: Answers may differ from person to person.)\n\t\n5.\t What would a system of coordinates be like if we did not have \nnegative numbers? Would this system allow us to locate all the \npoints on a 2-D plane?\n\t *6.\t Are the points M (– 3, – 4), A (0, 0) and G (6, 8) on the same straight \nline? Suggest a method to check this without plotting and joining \nthe points.\n\t *7.\t Use your method (from Problem 6) to check if the points \nR (– 5, – 1), B (– 2, – 5) and C (4, – 12) are on the same straight line. \nNow plot both sets of points and check your answers.\n\t *8.\t Using the origin as one vertex, plot the vertices of:\n\t\n(i)\t A right-angled isosceles triangle.\n\t\n(ii)\t An isosceles triangle with one vertex in Quadrant III and the \nother in Quadrant IV.",
+        "source": "The use of coordinates.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_the_use_of_coordinates_21",
+        "text": "*8.\t Using the origin as one vertex, plot the vertices of:\n\t\n(i)\t A right-angled isosceles triangle.\n\t\n(ii)\t An isosceles triangle with one vertex in Quadrant III and the \nother in Quadrant IV.\n\t *9.\t The following table shows the coordinates of points S, M and \nT. In each case, state whether M is the midpoint of segment \nST. Justify your answer.\n13\nOrienting Yourself: The Use of Coordinates\nS\nM\nT\nIs M the midpoint \nof ST? Yes or No\nReason for your \nanswer\n(– 3, 0)\n(0, 0)\n(3, 0)\n(2, 3)\n(3, 4)\n(4, 5)\n(0, 0)\n(0, 5)\n(0, – 10)\n(– 8, 7)\n(0, – 2)\n(6, – 3)\n\t\n\t When M is the mid-point of ST, can you find any connection \nbetween the coordinates of M, S and T?\n\t*10.\t Use the connection you found to find the coordinates of B given \nthat M (–7, 1) is the midpoint of A (3, – 4) and B (x, y).\n\t*11.\t Let P, Q be points of trisection of AB, with P closer to A, and Q \ncloser to B. Using your knowledge of how to find the coordinates \nof the midpoint of a segment, how would you find the coordinates",
+        "source": "The use of coordinates.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_the_use_of_coordinates_22",
+        "text": "closer to B. Using your knowledge of how to find the coordinates \nof the midpoint of a segment, how would you find the coordinates \nof P and Q? Do this for the case when the points are A (4, 7) and \nB (16, –2).\n\t *12.\t (i)\t \u0007Given the points A (1, – 8), B (– 4, 7) and C (–7, – 4), show that \nthey lie on a circle K whose center is the origin O (0, 0). What \nis the radius of circle K? \n\t\n(ii)\t \u0007Given the points D (– 5, 6) and E (0, 9), check whether D and E \nlie within the circle, on the circle, or outside the circle K.\n\t*13.\t The midpoints of the sides of triangle ABC are the points D, E, and \nF. Given that the coordinates of D, E, and F are (5, 1), (6, 5), and \n(0, 3), respectively, find the coordinates of A, B and C.\n\t 14.\t A city has two main roads which cross each other at the centre \nof the city. These two roads are along the North–South (N–S) \ndirection and East–West (E–W) direction. All the other streets of \nthe city run parallel to these roads and are 200 m apart. There are",
+        "source": "The use of coordinates.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_the_use_of_coordinates_23",
+        "text": "of the city. These two roads are along the North–South (N–S) \ndirection and East–West (E–W) direction. All the other streets of \nthe city run parallel to these roads and are 200 m apart. There are \n10 streets in each direction. \n\t\n(i)\t Using 1 cm = 200 m, draw a model of the city in your notebook. \nRepresent the roads/streets by single lines.\n\t\n(ii)\t \u0007There are street intersections in the model. Each street \nintersection is formed by two streets — one running in the \nN–S direction and another in the E–W direction. Each street \n14\nGanita Manjari | Grade 9 | Part I\nintersection is referred to in the following manner: If the \nsecond street running in the N–S direction and 5th street in \nthe E–W direction meet at some crossing, then we call this \nstreet intersection (2, 5). Using this convention, find:\n\t\n(a)\t how many street intersections can be referred to as (4, 3).\n\t\n(b)\t how many street intersections can be referred to as (3, 4).",
+        "source": "The use of coordinates.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_the_use_of_coordinates_24",
+        "text": "street intersection (2, 5). Using this convention, find:\n\t\n(a)\t how many street intersections can be referred to as (4, 3).\n\t\n(b)\t how many street intersections can be referred to as (3, 4).\n\t 15.\t A computer graphics program displays images on a rectangular \nscreen whose coordinate system has the origin at the \nbottom-left corner. The screen is 800 pixels wide and 600 pixels \nhigh. A circular icon of radius 80 pixels is drawn with its centre at \nthe point A (100, 150). Another circular icon of radius 100 pixels is \ndrawn with its centre at the point B (250, 230). Determine:\n\t\n(i)\t whether any part of either circle lies outside the screen. \n\t\n(ii)\t whether the two circles intersect each other.\n\t 16.\t Plot the points A (2, 1), B (–1, 2), C (–2, –1), and D (1, –2) in the \ncoordinate plane. Is ABCD a square? Can you explain why? What \nis the area of this square?\nChapter Summary\n\t\nz \u0007To locate the position of an object or a point in a plane, we require",
+        "source": "The use of coordinates.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_the_use_of_coordinates_25",
+        "text": "coordinate plane. Is ABCD a square? Can you explain why? What \nis the area of this square?\nChapter Summary\n\t\nz \u0007To locate the position of an object or a point in a plane, we require \ntwo perpendicular lines — One of them is horizontal, and the \nother is vertical.\n\t\nz \u0007The plane is called the cartesian plane, the coordinate plane or \nthe xy-plane and the lines are called the coordinate axes.\n\t\nz \u0007The horizontal line is called the x-axis and the vertical line is \ncalled the y-axis.\n\t\nz \u0007The coordinate axes divide the plane into four parts called \n­quadrants.\n\t\nz The point of intersection of the axes is called the origin.\n\t\nz \u0007The distance of a point from the y-axis is its x-coordinate and \nthe distance of the point from the x-axis is its y-coordinate. If the \nx-coordinate of a point is x, and the y-coordinate is y, then (x, y) \nare called the coordinates of the point.\n15\nOrienting Yourself: The Use of Coordinates\n\t\nz \u0007The coordinates of a point on the x-axis are of the form (x, 0), and",
+        "source": "The use of coordinates.pdf",
+        "class": 9,
+        "subject": "Maths"
+    },
+    {
+        "id": "class9_maths_the_use_of_coordinates_26",
+        "text": "are called the coordinates of the point.\n15\nOrienting Yourself: The Use of Coordinates\n\t\nz \u0007The coordinates of a point on the x-axis are of the form (x, 0), and \nthose of the points on the y-axis are of the form (0, y).\n\t\nz The coordinates of the origin are (0, 0).\n\t\nz \u0007The coordinates of a point are of the form (+, +) in the first \nquadrant, (–, +) in the second quadrant, (–, –) in the third quadrant \nand (+, –) in the fourth quadrant.\n\t\nz If x = y, then (x, y) = (y, x). If x ≠ y, then (x, y) ≠ (y, x).\n\t\nz \u0007The distance between points (x1, y) and (x2, y) is the absolute value \n|x2–x1|of the difference ­between x1 and x2.\n\t\nz \u0007The distance between points (x, y1) and (x, y2) is the absolute value \n|y2–y1|of the difference between y1 and y2.\n\t\nz By the Baudhāyana–Pythagoras Theorem, the distance between \npoints (x1, y1) and (x2, y2) is (\n)\n(\n)\nx\nx\ny\ny\n2\n1\n2\n2\n1\n2\n−\n+\n−\n.",
+        "source": "The use of coordinates.pdf",
+        "class": 9,
+        "subject": "Maths"
+    }
+]
