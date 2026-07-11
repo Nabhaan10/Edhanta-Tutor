@@ -1,6 +1,6 @@
 import json
 from pathlib import Path
-from rag.embedding_model import model
+from rag.embedding_model import encode
 
 import chromadb
 
@@ -33,9 +33,7 @@ def store_chunks(chunks):
 
     for chunk in chunks:
 
-        embedding = model.encode(
-            chunk["text"]
-        ).tolist()
+        embedding = encode(chunk["text"])
 
         metadata = {
             key: value

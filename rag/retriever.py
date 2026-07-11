@@ -1,7 +1,7 @@
 import logging
 
 import chromadb
-from rag.embedding_model import model
+from rag.embedding_model import encode
 
 from config import CHROMA_DB_PATH, COLLECTION_NAME, SCOPE_THRESHOLD, CONTEXT_THRESHOLD
 
@@ -43,7 +43,7 @@ def search(query: str, n_results: int = 5) -> dict:
         print(f"DB Path: {CHROMA_DB_PATH}")
         print(f"Collection: {COLLECTION_NAME}")
 
-        query_embedding = model.encode(query).tolist()
+        query_embedding = encode(query)
 
         results = collection.query(
             query_embeddings=[query_embedding],
