@@ -45,7 +45,7 @@ def search(query: str, n_results: int = 5) -> dict:
         for m in results["metadatas"][0]:
             print("-", m["source"])
 
-        return None
+        return results
     except Exception as e:
         raise RuntimeError(f"Failed to retrieve results: {e}") from e
 
