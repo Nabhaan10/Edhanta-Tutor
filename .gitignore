@@ -34,8 +34,6 @@ ENV/
 env/
 .env/
 
-# Vector store / database files (can be large and regenerated)
-chroma_db/
 
 # Node / Frontend
 node_modules/
