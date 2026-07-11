@@ -63,7 +63,7 @@ function Index() {
     setIsLoading(true);
 
     try {
-      const response = await fetch("http://127.0.0.1:8000/ask", {
+      const response = await fetch("https://edhanta-tutor.onrender.com/ask", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
@@ -130,7 +130,7 @@ function Index() {
       formData.append("board", board);
       formData.append("language", "English");
 
-      const response = await fetch("http://127.0.0.1:8000/ask-image", {
+      const response = await fetch("https://edhanta-tutor.onrender.com/ask-image", {
         method: "POST",
         body: formData,
       });
