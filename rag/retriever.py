@@ -7,12 +7,19 @@ from config import CHROMA_DB_PATH, COLLECTION_NAME, SCOPE_THRESHOLD, CONTEXT_THR
 
 log = logging.getLogger(__name__)
 
-# Create the ChromaDB client and collection ONCE at startup, not per request.
-# Creating a new PersistentClient on every call opens a new SQLite connection
-# and competes for file locks. On Windows/OneDrive this causes requests to
-# hang indefinitely. A module-level singleton avoids this entirely.
-_chroma_client = chromadb.PersistentClient(path=CHROMA_DB_PATH)
-_collection = _chroma_client.get_collection(COLLECTION_NAME)
+# ChromaDB client and collection are initialised lazily on first use.
+# This prevents import-time crashes on Render if chroma_db/ is not yet present.
+_chroma_client = None
+_collection = None
+
+
+def _get_collection():
+    """Return the ChromaDB collection, initialising it on first call."""
+    global _chroma_client, _collection
+    if _collection is None:
+        _chroma_client = chromadb.PersistentClient(path=CHROMA_DB_PATH)
+        _collection = _chroma_client.get_collection(COLLECTION_NAME)
+    return _collection
 
 
 def search(query: str, n_results: int = 5) -> dict:
@@ -30,14 +37,15 @@ def search(query: str, n_results: int = 5) -> dict:
         RuntimeError: If embedding or database query fails.
     """
     try:
+        collection = _get_collection()
         print(f"\nSearching for: {query}")
-        print(f"\nCollection count: {_collection.count()}")
+        print(f"\nCollection count: {collection.count()}")
         print(f"DB Path: {CHROMA_DB_PATH}")
         print(f"Collection: {COLLECTION_NAME}")
 
         query_embedding = model.encode(query).tolist()
 
-        results = _collection.query(
+        results = collection.query(
             query_embeddings=[query_embedding],
             n_results=n_results
         )
