@@ -3,6 +3,11 @@
 .env.*
 !.env.example
 
+# Large data files — raw PDFs and intermediate processed text
+# Only data/chunks/ and chroma_db/ are needed at runtime
+data/raw/
+data/processed/
+
 # Python
 __pycache__/
 *.py[cod]
