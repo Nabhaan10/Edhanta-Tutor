@@ -36,6 +36,12 @@ def home():
     return {"message": "Welcome to Edhanta AI Backend API"}
 
 
+@app.get("/health")
+def health():
+    """Lightweight liveness probe used by the frontend to detect cold-start completion."""
+    return {"status": "ok"}
+
+
 @app.post("/ask", response_model=AnswerResponse)
 def ask_question(request: QuestionRequest):
     try:

@@ -49,7 +49,40 @@ function Index() {
   ]);
   const [isLoading, setIsLoading] = useState(false);
   const [isWarmingUp, setIsWarmingUp] = useState(false);
+  const [serverStatus, setServerStatus] = useState<"checking" | "starting" | "ready">("checking");
   const [board, setBoard] = useState<Board>("CBSE");
+
+  // ── Health-check: poll /health on mount until backend responds ────────
+  useEffect(() => {
+    let cancelled = false;
+    let timerId: ReturnType<typeof setTimeout>;
+
+    const ping = async () => {
+      try {
+        const res = await fetch("https://edhanta-tutor.onrender.com/health", {
+          signal: AbortSignal.timeout(4000),
+        });
+        if (!cancelled && res.ok) {
+          setServerStatus("ready");
+          // Hide banner after 3 s
+          timerId = setTimeout(() => setServerStatus((s) => (s === "ready" ? "ready" : s)), 3000);
+          return; // stop polling
+        }
+      } catch {
+        // server not yet awake
+      }
+      if (!cancelled) {
+        setServerStatus("starting");
+        timerId = setTimeout(ping, 3000); // retry in 3 s
+      }
+    };
+
+    ping();
+    return () => {
+      cancelled = true;
+      clearTimeout(timerId);
+    };
+  }, []);
 
   // ── Text question handler ──────────────────────────────────────────────────
   const handleSend = async (text: string) => {
@@ -186,6 +219,36 @@ function Index() {
   return (
     <div className="flex min-h-screen flex-col bg-background">
       <ChatHeader />
+
+      {/* ── Backend status banner ───────────────────────────────────── */}
+      {serverStatus !== "ready" && (
+        <div
+          className={`flex items-center justify-center gap-2 py-1.5 text-xs font-medium ${
+            serverStatus === "checking"
+              ? "bg-muted text-muted-foreground"
+              : "bg-amber-500/15 text-amber-700 dark:text-amber-400"
+          }`}
+        >
+          {serverStatus === "checking" ? (
+            <>
+              <span className="inline-block h-2 w-2 animate-pulse rounded-full bg-muted-foreground" />
+              Connecting to server…
+            </>
+          ) : (
+            <>
+              <span className="inline-block h-2 w-2 animate-pulse rounded-full bg-amber-500" />
+              Server is starting up — first response may take ~30 s
+            </>
+          )}
+        </div>
+      )}
+      {serverStatus === "ready" && (
+        <div className="flex items-center justify-center gap-2 py-1.5 text-xs font-medium bg-green-500/10 text-green-700 dark:text-green-400">
+          <span className="inline-block h-2 w-2 rounded-full bg-green-500" />
+          Server ready
+        </div>
+      )}
+
       <main className="flex-1">
         <MessageList messages={messages} isLoading={isLoading} />
         {isWarmingUp && (
