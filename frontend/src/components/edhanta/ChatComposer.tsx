@@ -120,6 +120,9 @@ export function ChatComposer({
 
         <div className="flex-1">
           <Textarea
+            id="chat-input"
+            name="chat-input"
+            autoComplete="off"
             value={value}
             onChange={(e) => setValue(e.target.value)}
             onKeyDown={onKeyDown}
