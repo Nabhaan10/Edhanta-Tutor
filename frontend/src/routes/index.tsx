@@ -48,6 +48,7 @@ function Index() {
     },
   ]);
   const [isLoading, setIsLoading] = useState(false);
+  const [isWarmingUp, setIsWarmingUp] = useState(false);
   const [board, setBoard] = useState<Board>("CBSE");
 
   // ── Text question handler ──────────────────────────────────────────────────
@@ -62,24 +63,21 @@ function Index() {
     setMessages((prev) => [...prev, userMsg]);
     setIsLoading(true);
 
+    // Show "warming up" hint after 5 s (Render free-tier cold start)
+    const warmTimer = setTimeout(() => setIsWarmingUp(true), 5000);
+    const controller = new AbortController();
+    const timeoutId = setTimeout(() => controller.abort(), 90000);
+
     try {
       const response = await fetch("https://edhanta-tutor.onrender.com/ask", {
         method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-        },
-        body: JSON.stringify({
-          question: text,
-          session_id: sessionId,
-          board: board,
-        }),
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ question: text, session_id: sessionId, board }),
+        signal: controller.signal,
       });
 
       const data = await response.json();
-
-      if (!response.ok) {
-        throw new Error(data.detail ?? "Server error");
-      }
+      if (!response.ok) throw new Error(data.detail ?? "Server error");
 
       setMessages((prev) => [
         ...prev,
@@ -94,34 +92,36 @@ function Index() {
         },
       ]);
     } catch (error) {
+      const isTimeout = error instanceof DOMException && error.name === "AbortError";
       setMessages((prev) => [
         ...prev,
         {
           id: uid(),
           role: "assistant",
-          content: "Sorry, something went wrong while contacting the server.",
+          content: isTimeout
+            ? "The server took too long to respond. It may be waking up — please try again in a moment."
+            : "Sorry, something went wrong while contacting the server.",
         },
       ]);
     } finally {
+      clearTimeout(warmTimer);
+      clearTimeout(timeoutId);
       setIsLoading(false);
+      setIsWarmingUp(false);
     }
   };
 
   // ── Image question handler ─────────────────────────────────────────────────
   const handleSendImage = async (file: File) => {
     if (!sessionId) return;
-
-    // Create a local preview URL for the chat bubble
     const imageUrl = URL.createObjectURL(file);
-
-    const userMsg: Message = {
-      id: uid(),
-      role: "user",
-      imageUrl,
-    };
-
+    const userMsg: Message = { id: uid(), role: "user", imageUrl };
     setMessages((prev) => [...prev, userMsg]);
     setIsLoading(true);
+
+    const warmTimer = setTimeout(() => setIsWarmingUp(true), 5000);
+    const controller = new AbortController();
+    const timeoutId = setTimeout(() => controller.abort(), 90000);
 
     try {
       const formData = new FormData();
@@ -133,15 +133,12 @@ function Index() {
       const response = await fetch("https://edhanta-tutor.onrender.com/ask-image", {
         method: "POST",
         body: formData,
+        signal: controller.signal,
       });
 
       const data = await response.json();
+      if (!response.ok) throw new Error(data.detail ?? "Server error");
 
-      if (!response.ok) {
-        throw new Error(data.detail ?? "Server error");
-      }
-
-      // Build a rich extracted-question label if the vision model found metadata
       const ext = data.extracted ?? {};
       const metaParts: string[] = [];
       if (ext.subject) metaParts.push(`**Subject:** ${ext.subject}`);
@@ -167,18 +164,22 @@ function Index() {
         },
       ]);
     } catch (error) {
-      const errMsg =
-        error instanceof Error ? error.message : "Unknown error";
+      const isTimeout = error instanceof DOMException && error.name === "AbortError";
       setMessages((prev) => [
         ...prev,
         {
           id: uid(),
           role: "assistant",
-          content: `Sorry, I couldn't process that image. ${errMsg}`,
+          content: isTimeout
+            ? "The server took too long to respond. It may be waking up — please try again in a moment."
+            : `Sorry, I couldn't process that image. ${error instanceof Error ? error.message : "Unknown error"}`,
         },
       ]);
     } finally {
+      clearTimeout(warmTimer);
+      clearTimeout(timeoutId);
       setIsLoading(false);
+      setIsWarmingUp(false);
     }
   };
 
@@ -187,6 +188,11 @@ function Index() {
       <ChatHeader />
       <main className="flex-1">
         <MessageList messages={messages} isLoading={isLoading} />
+        {isWarmingUp && (
+          <p className="pb-32 text-center text-xs text-muted-foreground animate-pulse">
+            ⏳ Server is waking up, this may take up to 30 seconds…
+          </p>
+        )}
       </main>
       <ChatComposer
         onSend={handleSend}
